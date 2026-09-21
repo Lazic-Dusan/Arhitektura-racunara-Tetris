@@ -1,0 +1,49 @@
+WIDTH = 12;
+DEPTH = 256;
+
+ADDRESS_RADIX = HEX;
+DATA_RADIX = HEX;
+
+CONTENT BEGIN
+    [00..17] : 000; -- Red 0, 1 i start Reda 2
+
+    -- Red 2 (Adrese 14..1D)
+    18       : A0F; -- T-blok vrh
+    [19..20] : 000;
+
+    -- Red 3 (Adrese 1E..27)
+    [21..23] : A0F; -- T-blok baza (3 u nizu)
+    [24..9F] : 000; -- Prazno od Reda 4 do Reda 15
+
+    -- Red 16 (Adrese A0..A9)
+    A0       : 0FF; -- I-blok (1)
+    [A1..A6] : 000;
+    A7       : F80; -- L-blok vrh (1)
+    [A8..A9] : 000;
+
+    -- Red 17 (Adrese AA..B3)
+    AA       : 0FF; -- I-blok (2)
+    AB       : 000;
+    [AC..AD] : FF0; -- O-blok vrh (2 u nizu)
+    AE       : 0F0; -- S-blok vrh (1)
+    AF       : F80; -- L-blok vertikala (1)
+    B0       : F80; -- L-blok ugao (1)
+    B1       : F80; -- L-blok dno (1)
+    [B2..B3] : 000;
+
+    -- Red 18 (Adrese B4..BD)
+    B4       : 0FF; -- I-blok (3)
+    B5       : 000;
+    [B6..B7] : FF0; -- O-blok dno (2 u nizu)
+    [B8..B9] : 0F0; -- S-blok sredina (2 u nizu)
+    [BA..BD] : 000;
+
+    -- Red 19 (Adrese BE..C7)
+    BE       : 0FF; -- I-blok kraj (4/4)
+    [BF..C1] : F00; -- Z-blok dno (2 u nizu)
+    C2       : F00; -- Z-blok desno (4/4)
+    C3	     : 0F0;
+    [C4..C7] : 000;
+
+    [C8..FF] : 000;
+END;

@@ -1,0 +1,113 @@
+/*
+WARNING: Do NOT edit the input and output ports in this file in a text
+editor if you plan to continue editing the block that represents it in
+the Block Editor! File corruption is VERY likely to occur.
+*/
+/*
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+*/
+(header "symbol" (version "1.2"))
+(symbol
+	(rect 16 16 248 176)
+	(text "VGAPer" (rect 5 0 52 14)(font "Arial" (font_size 8)))
+	(text "inst" (rect 8 144 25 156)(font "Arial" ))
+	(port
+		(pt 0 32)
+		(input)
+		(text "CLK" (rect 0 0 23 14)(font "Arial" (font_size 8)))
+		(text "CLK" (rect 21 27 44 41)(font "Arial" (font_size 8)))
+		(line (pt 0 32)(pt 16 32))
+	)
+	(port
+		(pt 0 48)
+		(input)
+		(text "DATA[11..0]" (rect 0 0 69 14)(font "Arial" (font_size 8)))
+		(text "DATA[11..0]" (rect 21 43 90 57)(font "Arial" (font_size 8)))
+		(line (pt 0 48)(pt 16 48)(line_width 3))
+	)
+	(port
+		(pt 0 64)
+		(input)
+		(text "WR" (rect 0 0 20 14)(font "Arial" (font_size 8)))
+		(text "WR" (rect 21 59 41 73)(font "Arial" (font_size 8)))
+		(line (pt 0 64)(pt 16 64))
+	)
+	(port
+		(pt 0 80)
+		(input)
+		(text "AddrIN[7..0]" (rect 0 0 67 14)(font "Arial" (font_size 8)))
+		(text "AddrIN[7..0]" (rect 21 75 88 89)(font "Arial" (font_size 8)))
+		(line (pt 0 80)(pt 16 80)(line_width 3))
+	)
+	(port
+		(pt 0 96)
+		(input)
+		(text "Shape_Color[11..0]" (rect 0 0 108 14)(font "Arial" (font_size 8)))
+		(text "Shape_Color[11..0]" (rect 21 91 129 105)(font "Arial" (font_size 8)))
+		(line (pt 0 96)(pt 16 96)(line_width 3))
+	)
+	(port
+		(pt 0 112)
+		(input)
+		(text "Shape_Mask[7..0]" (rect 0 0 101 14)(font "Arial" (font_size 8)))
+		(text "Shape_Mask[7..0]" (rect 21 107 122 121)(font "Arial" (font_size 8)))
+		(line (pt 0 112)(pt 16 112)(line_width 3))
+	)
+	(port
+		(pt 232 32)
+		(output)
+		(text "RED[3..0]" (rect 0 0 51 14)(font "Arial" (font_size 8)))
+		(text "RED[3..0]" (rect 160 27 211 41)(font "Arial" (font_size 8)))
+		(line (pt 232 32)(pt 216 32)(line_width 3))
+	)
+	(port
+		(pt 232 48)
+		(output)
+		(text "GREEN[3..0]" (rect 0 0 68 14)(font "Arial" (font_size 8)))
+		(text "GREEN[3..0]" (rect 143 43 211 57)(font "Arial" (font_size 8)))
+		(line (pt 232 48)(pt 216 48)(line_width 3))
+	)
+	(port
+		(pt 232 64)
+		(output)
+		(text "BLUE[3..0]" (rect 0 0 59 14)(font "Arial" (font_size 8)))
+		(text "BLUE[3..0]" (rect 152 59 211 73)(font "Arial" (font_size 8)))
+		(line (pt 232 64)(pt 216 64)(line_width 3))
+	)
+	(port
+		(pt 232 80)
+		(output)
+		(text "HS" (rect 0 0 16 14)(font "Arial" (font_size 8)))
+		(text "HS" (rect 195 75 211 89)(font "Arial" (font_size 8)))
+		(line (pt 232 80)(pt 216 80))
+	)
+	(port
+		(pt 232 96)
+		(output)
+		(text "VS" (rect 0 0 17 14)(font "Arial" (font_size 8)))
+		(text "VS" (rect 194 91 211 105)(font "Arial" (font_size 8)))
+		(line (pt 232 96)(pt 216 96))
+	)
+	(port
+		(pt 232 112)
+		(output)
+		(text "ValidWR" (rect 0 0 48 14)(font "Arial" (font_size 8)))
+		(text "ValidWR" (rect 163 107 211 121)(font "Arial" (font_size 8)))
+		(line (pt 232 112)(pt 216 112))
+	)
+	(drawing
+		(rectangle (rect 16 16 216 144))
+	)
+)
