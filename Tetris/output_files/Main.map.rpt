@@ -1,5 +1,5 @@
 Analysis & Synthesis report for Main
-Fri Sep 18 17:25:02 2026
+Tue Sep 22 14:42:46 2026
 Quartus II 64-Bit Version 13.1.0 Build 162 10/23/2013 SJ Web Edition
 
 
@@ -21,248 +21,243 @@ Quartus II 64-Bit Version 13.1.0 Build 162 10/23/2013 SJ Web Edition
  13. Inverted Register Statistics
  14. Multiplexer Restructuring Statistics (Restructuring Performed)
  15. Source assignments for KPVGA:inst15|VGAPer:inst|VideoRAM:inst9|altsyncram:altsyncram_component|altsyncram_tat3:auto_generated
- 16. Source assignments for memTest:inst9|altsyncram:altsyncram_component|altsyncram_dos3:auto_generated
- 17. Parameter Settings for User Entity Instance: CPU:inst|DecodeFaza:inst|RegisterX:inst62
- 18. Parameter Settings for User Entity Instance: CPU:inst|DecodeFaza:inst|RegisterX:inst63
- 19. Parameter Settings for User Entity Instance: CPU:inst|DecodeFaza:inst|RegisterX:inst77
- 20. Parameter Settings for User Entity Instance: CPU:inst|FetchFaza:inst24|RegisterX:inst2
- 21. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|ComparatorX:inst66
- 22. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst75
- 23. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst77
- 24. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|ALUX:inst
- 25. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst27
- 26. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst65
- 27. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst11
- 28. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst10
- 29. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst12
- 30. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|ConstantX:inst49
- 31. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MX8:inst26|MultiplexerX:inst
- 32. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MX8:inst26|MX4:inst2|MultiplexerX:inst2
- 33. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MX8:inst26|MX4:inst2|MultiplexerX:inst
- 34. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MX8:inst26|MX4:inst2|MultiplexerX:inst1
- 35. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MX8:inst26|MX4:inst3|MultiplexerX:inst2
- 36. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MX8:inst26|MX4:inst3|MultiplexerX:inst
- 37. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MX8:inst26|MX4:inst3|MultiplexerX:inst1
- 38. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|ConstantX:inst50
- 39. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst109
- 40. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst60
- 41. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst52
- 42. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst61
- 43. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst108
- 44. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst100
- 45. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|ConstantX:inst59
- 46. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst53
- 47. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|lpm_add_sub0:inst28|lpm_add_sub:LPM_ADD_SUB_component
- 48. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|ConstantX:inst44
- 49. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst64
- 50. Parameter Settings for User Entity Instance: CPU:inst|RegisterX:inst23
- 51. Parameter Settings for User Entity Instance: CPU:inst|MultiplexerX:inst5
- 52. Parameter Settings for User Entity Instance: CPU:inst|PC:inst8
- 53. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|ConstantX:inst45
- 54. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|ConstantX:inst7
- 55. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|ConstantX:inst6
- 56. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|ConstantX:inst52
- 57. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|ConstantX:inst10
- 58. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|ConstantX:inst9
- 59. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|ConstantX:inst59
- 60. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|ConstantX:inst69
- 61. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|ConstantX:inst11
- 62. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|RegisterX:inst68
- 63. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|RegisterX:inst61
- 64. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|RegisterX:inst76
- 65. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|RegisterX:inst65
- 66. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|RegisterX:inst39
- 67. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|RegisterX:inst53
- 68. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|RegisterX:inst74
- 69. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|RegisterX:inst3
- 70. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|RegisterX:inst2
- 71. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|RegisterX:inst4
- 72. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|RegisterX:inst46
- 73. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|RegisterX:inst8
- 74. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|RegisterX:inst
- 75. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|RegisterX:inst1
- 76. Parameter Settings for User Entity Instance: CPU:inst|InterruptFaza:inst12|ConstantX:inst6
- 77. Parameter Settings for User Entity Instance: CPU:inst|InterruptFaza:inst12|ConstantX:inst1
- 78. Parameter Settings for User Entity Instance: CPU:inst|InterruptFaza:inst12|ConstantX:inst14
- 79. Parameter Settings for User Entity Instance: CPU:inst|InterruptFaza:inst12|ConstantX:inst9
- 80. Parameter Settings for User Entity Instance: CPU:inst|InterruptFaza:inst12|ConstantX:inst26
- 81. Parameter Settings for User Entity Instance: CPU:inst|InterruptFaza:inst12|ConstantX:inst42
- 82. Parameter Settings for User Entity Instance: CPU:inst|MultiplexerX:inst30
- 83. Parameter Settings for User Entity Instance: CPU:inst|MultiplexerX:inst33
- 84. Parameter Settings for User Entity Instance: CPU:inst|MultiplexerX:inst25
- 85. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|MultiplexerX:inst12
- 86. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegisterX:inst501
- 87. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|MX8:inst11|MultiplexerX:inst
- 88. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|MX8:inst11|MX4:inst2|MultiplexerX:inst2
- 89. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|MX8:inst11|MX4:inst2|MultiplexerX:inst
- 90. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|MX8:inst11|MX4:inst2|MultiplexerX:inst1
- 91. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|MX8:inst11|MX4:inst3|MultiplexerX:inst2
- 92. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|MX8:inst11|MX4:inst3|MultiplexerX:inst
- 93. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|MX8:inst11|MX4:inst3|MultiplexerX:inst1
- 94. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst|MX4:inst2|MultiplexerX:inst2
- 95. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst|MX4:inst2|MultiplexerX:inst
- 96. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst|MX4:inst2|MultiplexerX:inst1
- 97. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst|RegisterX:inst501
- 98. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst|RegisterX:inst
- 99. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst|RegisterX:inst15
-100. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst|RegisterX:inst16
-101. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst4|MX4:inst2|MultiplexerX:inst2
-102. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst4|MX4:inst2|MultiplexerX:inst
-103. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst4|MX4:inst2|MultiplexerX:inst1
-104. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst4|RegisterX:inst501
-105. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst4|RegisterX:inst
-106. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst4|RegisterX:inst15
-107. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst4|RegisterX:inst16
-108. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst5|MX4:inst2|MultiplexerX:inst2
-109. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst5|MX4:inst2|MultiplexerX:inst
-110. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst5|MX4:inst2|MultiplexerX:inst1
-111. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst5|RegisterX:inst501
-112. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst5|RegisterX:inst
-113. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst5|RegisterX:inst15
-114. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst5|RegisterX:inst16
-115. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst6|MX4:inst2|MultiplexerX:inst2
-116. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst6|MX4:inst2|MultiplexerX:inst
-117. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst6|MX4:inst2|MultiplexerX:inst1
-118. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst6|RegisterX:inst501
-119. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst6|RegisterX:inst
-120. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst6|RegisterX:inst15
-121. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst6|RegisterX:inst16
-122. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst7|MX4:inst2|MultiplexerX:inst2
-123. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst7|MX4:inst2|MultiplexerX:inst
-124. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst7|MX4:inst2|MultiplexerX:inst1
-125. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst7|RegisterX:inst501
-126. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst7|RegisterX:inst
-127. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst7|RegisterX:inst15
-128. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst7|RegisterX:inst16
-129. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst8|MX4:inst2|MultiplexerX:inst2
-130. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst8|MX4:inst2|MultiplexerX:inst
-131. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst8|MX4:inst2|MultiplexerX:inst1
-132. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst8|RegisterX:inst501
-133. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst8|RegisterX:inst
-134. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst8|RegisterX:inst15
-135. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst8|RegisterX:inst16
-136. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst9|MX4:inst2|MultiplexerX:inst2
-137. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst9|MX4:inst2|MultiplexerX:inst
-138. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst9|MX4:inst2|MultiplexerX:inst1
-139. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst9|RegisterX:inst501
-140. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst9|RegisterX:inst
-141. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst9|RegisterX:inst15
-142. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst9|RegisterX:inst16
-143. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst10|MX4:inst2|MultiplexerX:inst2
-144. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst10|MX4:inst2|MultiplexerX:inst
-145. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst10|MX4:inst2|MultiplexerX:inst1
-146. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst10|RegisterX:inst501
-147. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst10|RegisterX:inst
-148. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst10|RegisterX:inst15
-149. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst10|RegisterX:inst16
-150. Parameter Settings for User Entity Instance: CPU:inst|MultiplexerX:inst14
-151. Parameter Settings for User Entity Instance: CPU:inst|MultiplexerX:inst11
-152. Parameter Settings for User Entity Instance: CPU:inst|RegisterX:inst28
-153. Parameter Settings for User Entity Instance: CPU:inst|RegisterX:inst18
-154. Parameter Settings for User Entity Instance: KPTastature:inst11|RegisterX:inst29
-155. Parameter Settings for User Entity Instance: KPTastature:inst11|ConstantX:inst5
-156. Parameter Settings for User Entity Instance: KPTastature:inst11|ConstantX:inst6
-157. Parameter Settings for User Entity Instance: KPTastature:inst11|RegisterX:inst3
-158. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ComparatorX:inst10
-159. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|RegisterX:inst
-160. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ComparatorX:inst2
-161. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ConstantX:inst1
-162. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ConstantX:inst9
-163. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ComparatorX:inst8
-164. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ConstantX:inst7
-165. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ComparatorX:inst15
-166. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|RegisterX:inst3
-167. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ComparatorX:inst5
-168. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ConstantX:inst4
-169. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ConstantX:inst14
-170. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ComparatorX:inst13
-171. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ConstantX:inst12
-172. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ComparatorX:inst20
-173. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ConstantX:inst19
-174. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ComparatorX:inst18
-175. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ConstantX:inst17
-176. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ComparatorX:inst17
-177. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ConstantX:inst40
-178. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ComparatorX:inst30
-179. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ConstantX:inst41
-180. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer1:inst5|ComparatorX:inst9
-181. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer1:inst5|ConstantX:inst4
-182. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer1:inst5|ComparatorX:inst7
-183. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer1:inst5|ConstantX:inst1
-184. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer1:inst5|ComparatorX:inst12
-185. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer1:inst5|ConstantX:inst5
-186. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer1:inst5|ComparatorX:inst11
-187. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer1:inst5|ConstantX:inst6
-188. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer1:inst5|RegisterX:inst8
-189. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ComparatorX:inst32
-190. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ConstantX:inst34
-191. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ComparatorX:inst14
-192. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|RegisterX:inst12
-193. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ConstantX:inst15
-194. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|VideoRAM:inst9|altsyncram:altsyncram_component
-195. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ALUX:inst26
-196. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ALUX:inst25
-197. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|RegisterX:inst10
-198. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ComparatorX:inst37
-199. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ConstantX:inst38
-200. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ComparatorX:inst16
-201. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ConstantX:inst19
-202. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|RegisterX:inst13
-203. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ComparatorX:inst35
-204. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ConstantX:inst36
-205. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|RegisterX:inst11
-206. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer2:inst18|ComparatorX:inst9
-207. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer2:inst18|ConstantX:inst4
-208. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer2:inst18|ComparatorX:inst7
-209. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer2:inst18|ConstantX:inst1
-210. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer2:inst18|ComparatorX:inst12
-211. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer2:inst18|ConstantX:inst5
-212. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer2:inst18|ComparatorX:inst11
-213. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer2:inst18|ConstantX:inst6
-214. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer2:inst18|RegisterX:inst8
-215. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ComparatorX:inst71
-216. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ConstantX:inst76
-217. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ComparatorX:inst63
-218. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|RegisterX:inst61
-219. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ConstantX:inst78
-220. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|MultiplexerX:inst85
-221. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|MX8:inst82|MultiplexerX:inst
-222. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|MX8:inst82|MX4:inst2|MultiplexerX:inst2
-223. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|MX8:inst82|MX4:inst2|MultiplexerX:inst
-224. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|MX8:inst82|MX4:inst2|MultiplexerX:inst1
-225. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|MX8:inst82|MX4:inst3|MultiplexerX:inst2
-226. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|MX8:inst82|MX4:inst3|MultiplexerX:inst
-227. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|MX8:inst82|MX4:inst3|MultiplexerX:inst1
-228. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|RegisterX:inst59
-229. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ComparatorX:inst73
-230. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ConstantX:inst80
-231. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ComparatorX:inst64
-232. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ConstantX:inst68
-233. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|RegisterX:inst62
-234. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ComparatorX:inst72
-235. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ConstantX:inst67
-236. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|RegisterX:inst60
-237. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ConstantX:inst6
-238. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ConstantX:inst86
-239. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer0:inst3|ConstantX:inst6
-240. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer0:inst3|ConstantX:inst2
-241. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer0:inst3|ConstantX:inst8
-242. Parameter Settings for User Entity Instance: KPVGA:inst15|RegisterX:inst31
-243. Parameter Settings for User Entity Instance: KPVGA:inst15|RegisterX:inst29
-244. Parameter Settings for User Entity Instance: KPVGA:inst15|RegisterX:inst30
-245. Parameter Settings for User Entity Instance: KPVGA:inst15|RegisterX:inst32
-246. Parameter Settings for User Entity Instance: KPVGA:inst15|RegisterX:inst33
-247. Parameter Settings for User Entity Instance: KPVGA:inst15|ConstantX:inst4
-248. Parameter Settings for User Entity Instance: memTest:inst9|altsyncram:altsyncram_component
-249. Parameter Settings for User Entity Instance: KPHex:inst12|RegisterX:inst30
-250. Parameter Settings for User Entity Instance: ComparatorX:inst34
-251. Parameter Settings for User Entity Instance: ConstantX:inst36
-252. Parameter Settings for User Entity Instance: ConstantX:inst59
-253. Parameter Settings for User Entity Instance: MultiplexerX:inst7
-254. Parameter Settings for User Entity Instance: cpu_debug_fifo:inst8
-255. altsyncram Parameter Settings by Entity Instance
-256. Elapsed Time Per Partition
-257. Analysis & Synthesis Messages
+ 16. Source assignments for memTest:inst9|altsyncram:altsyncram_component|altsyncram_s0t3:auto_generated
+ 17. Parameter Settings for User Entity Instance: KPHex:inst12|RegisterX:inst30
+ 18. Parameter Settings for User Entity Instance: CPU:inst|DecodeFaza:inst|RegisterX:inst62
+ 19. Parameter Settings for User Entity Instance: CPU:inst|DecodeFaza:inst|RegisterX:inst63
+ 20. Parameter Settings for User Entity Instance: CPU:inst|DecodeFaza:inst|RegisterX:inst77
+ 21. Parameter Settings for User Entity Instance: CPU:inst|FetchFaza:inst24|RegisterX:inst2
+ 22. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|ComparatorX:inst66
+ 23. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst75
+ 24. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst77
+ 25. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|ALUX:inst
+ 26. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst27
+ 27. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst65
+ 28. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst11
+ 29. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst10
+ 30. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst12
+ 31. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|ConstantX:inst49
+ 32. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MX8:inst26|MultiplexerX:inst
+ 33. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MX8:inst26|MX4:inst2|MultiplexerX:inst2
+ 34. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MX8:inst26|MX4:inst2|MultiplexerX:inst
+ 35. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MX8:inst26|MX4:inst2|MultiplexerX:inst1
+ 36. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MX8:inst26|MX4:inst3|MultiplexerX:inst2
+ 37. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MX8:inst26|MX4:inst3|MultiplexerX:inst
+ 38. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MX8:inst26|MX4:inst3|MultiplexerX:inst1
+ 39. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|ConstantX:inst50
+ 40. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst109
+ 41. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst60
+ 42. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst52
+ 43. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst61
+ 44. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst108
+ 45. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst100
+ 46. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|ConstantX:inst59
+ 47. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst53
+ 48. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|lpm_add_sub0:inst28|lpm_add_sub:LPM_ADD_SUB_component
+ 49. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|ConstantX:inst44
+ 50. Parameter Settings for User Entity Instance: CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst64
+ 51. Parameter Settings for User Entity Instance: CPU:inst|RegisterX:inst23
+ 52. Parameter Settings for User Entity Instance: CPU:inst|MultiplexerX:inst5
+ 53. Parameter Settings for User Entity Instance: CPU:inst|PC:inst8
+ 54. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|ConstantX:inst45
+ 55. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|ConstantX:inst7
+ 56. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|ConstantX:inst6
+ 57. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|ConstantX:inst52
+ 58. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|ConstantX:inst10
+ 59. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|ConstantX:inst9
+ 60. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|ConstantX:inst59
+ 61. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|ConstantX:inst69
+ 62. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|ConstantX:inst11
+ 63. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|RegisterX:inst68
+ 64. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|RegisterX:inst61
+ 65. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|RegisterX:inst76
+ 66. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|RegisterX:inst65
+ 67. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|RegisterX:inst39
+ 68. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|RegisterX:inst53
+ 69. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|RegisterX:inst74
+ 70. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|RegisterX:inst3
+ 71. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|RegisterX:inst2
+ 72. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|RegisterX:inst4
+ 73. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|RegisterX:inst46
+ 74. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|RegisterX:inst8
+ 75. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|RegisterX:inst
+ 76. Parameter Settings for User Entity Instance: CPU:inst|CSRegFile:inst31|RegisterX:inst1
+ 77. Parameter Settings for User Entity Instance: CPU:inst|InterruptFaza:inst12|ConstantX:inst6
+ 78. Parameter Settings for User Entity Instance: CPU:inst|InterruptFaza:inst12|ConstantX:inst1
+ 79. Parameter Settings for User Entity Instance: CPU:inst|InterruptFaza:inst12|ConstantX:inst14
+ 80. Parameter Settings for User Entity Instance: CPU:inst|InterruptFaza:inst12|ConstantX:inst9
+ 81. Parameter Settings for User Entity Instance: CPU:inst|InterruptFaza:inst12|ConstantX:inst26
+ 82. Parameter Settings for User Entity Instance: CPU:inst|InterruptFaza:inst12|ConstantX:inst42
+ 83. Parameter Settings for User Entity Instance: CPU:inst|MultiplexerX:inst30
+ 84. Parameter Settings for User Entity Instance: CPU:inst|MultiplexerX:inst33
+ 85. Parameter Settings for User Entity Instance: CPU:inst|MultiplexerX:inst25
+ 86. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|MultiplexerX:inst12
+ 87. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegisterX:inst501
+ 88. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|MX8:inst11|MultiplexerX:inst
+ 89. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|MX8:inst11|MX4:inst2|MultiplexerX:inst2
+ 90. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|MX8:inst11|MX4:inst2|MultiplexerX:inst
+ 91. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|MX8:inst11|MX4:inst2|MultiplexerX:inst1
+ 92. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|MX8:inst11|MX4:inst3|MultiplexerX:inst2
+ 93. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|MX8:inst11|MX4:inst3|MultiplexerX:inst
+ 94. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|MX8:inst11|MX4:inst3|MultiplexerX:inst1
+ 95. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst|MX4:inst2|MultiplexerX:inst2
+ 96. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst|MX4:inst2|MultiplexerX:inst
+ 97. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst|MX4:inst2|MultiplexerX:inst1
+ 98. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst|RegisterX:inst501
+ 99. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst|RegisterX:inst
+100. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst|RegisterX:inst15
+101. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst|RegisterX:inst16
+102. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst4|MX4:inst2|MultiplexerX:inst2
+103. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst4|MX4:inst2|MultiplexerX:inst
+104. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst4|MX4:inst2|MultiplexerX:inst1
+105. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst4|RegisterX:inst501
+106. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst4|RegisterX:inst
+107. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst4|RegisterX:inst15
+108. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst4|RegisterX:inst16
+109. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst5|MX4:inst2|MultiplexerX:inst2
+110. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst5|MX4:inst2|MultiplexerX:inst
+111. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst5|MX4:inst2|MultiplexerX:inst1
+112. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst5|RegisterX:inst501
+113. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst5|RegisterX:inst
+114. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst5|RegisterX:inst15
+115. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst5|RegisterX:inst16
+116. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst6|MX4:inst2|MultiplexerX:inst2
+117. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst6|MX4:inst2|MultiplexerX:inst
+118. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst6|MX4:inst2|MultiplexerX:inst1
+119. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst6|RegisterX:inst501
+120. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst6|RegisterX:inst
+121. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst6|RegisterX:inst15
+122. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst6|RegisterX:inst16
+123. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst7|MX4:inst2|MultiplexerX:inst2
+124. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst7|MX4:inst2|MultiplexerX:inst
+125. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst7|MX4:inst2|MultiplexerX:inst1
+126. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst7|RegisterX:inst501
+127. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst7|RegisterX:inst
+128. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst7|RegisterX:inst15
+129. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst7|RegisterX:inst16
+130. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst8|MX4:inst2|MultiplexerX:inst2
+131. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst8|MX4:inst2|MultiplexerX:inst
+132. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst8|MX4:inst2|MultiplexerX:inst1
+133. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst8|RegisterX:inst501
+134. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst8|RegisterX:inst
+135. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst8|RegisterX:inst15
+136. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst8|RegisterX:inst16
+137. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst9|MX4:inst2|MultiplexerX:inst2
+138. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst9|MX4:inst2|MultiplexerX:inst
+139. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst9|MX4:inst2|MultiplexerX:inst1
+140. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst9|RegisterX:inst501
+141. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst9|RegisterX:inst
+142. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst9|RegisterX:inst15
+143. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst9|RegisterX:inst16
+144. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst10|MX4:inst2|MultiplexerX:inst2
+145. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst10|MX4:inst2|MultiplexerX:inst
+146. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst10|MX4:inst2|MultiplexerX:inst1
+147. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst10|RegisterX:inst501
+148. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst10|RegisterX:inst
+149. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst10|RegisterX:inst15
+150. Parameter Settings for User Entity Instance: CPU:inst|RegFile32:inst4|RegFile4:inst10|RegisterX:inst16
+151. Parameter Settings for User Entity Instance: CPU:inst|MultiplexerX:inst14
+152. Parameter Settings for User Entity Instance: CPU:inst|MultiplexerX:inst11
+153. Parameter Settings for User Entity Instance: CPU:inst|RegisterX:inst28
+154. Parameter Settings for User Entity Instance: CPU:inst|RegisterX:inst18
+155. Parameter Settings for User Entity Instance: KPTastature:inst11|RegisterX:inst29
+156. Parameter Settings for User Entity Instance: KPTastature:inst11|ConstantX:inst5
+157. Parameter Settings for User Entity Instance: KPTastature:inst11|ConstantX:inst6
+158. Parameter Settings for User Entity Instance: KPTastature:inst11|RegisterX:inst3
+159. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ComparatorX:inst10
+160. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|RegisterX:inst
+161. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ComparatorX:inst2
+162. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ConstantX:inst1
+163. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ConstantX:inst9
+164. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ComparatorX:inst8
+165. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ConstantX:inst7
+166. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ComparatorX:inst15
+167. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|RegisterX:inst3
+168. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ComparatorX:inst5
+169. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ConstantX:inst4
+170. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ConstantX:inst14
+171. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ComparatorX:inst13
+172. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ConstantX:inst12
+173. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ComparatorX:inst20
+174. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ConstantX:inst19
+175. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ComparatorX:inst18
+176. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Controller:inst4|ConstantX:inst17
+177. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ComparatorX:inst17
+178. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ConstantX:inst40
+179. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ComparatorX:inst30
+180. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ConstantX:inst41
+181. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer1:inst5|ComparatorX:inst9
+182. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer1:inst5|ConstantX:inst4
+183. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer1:inst5|ComparatorX:inst7
+184. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer1:inst5|ConstantX:inst1
+185. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer1:inst5|ComparatorX:inst12
+186. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer1:inst5|ConstantX:inst5
+187. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer1:inst5|ComparatorX:inst11
+188. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer1:inst5|ConstantX:inst6
+189. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer1:inst5|RegisterX:inst8
+190. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ComparatorX:inst32
+191. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ConstantX:inst34
+192. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ComparatorX:inst14
+193. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|RegisterX:inst12
+194. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ConstantX:inst15
+195. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|VideoRAM:inst9|altsyncram:altsyncram_component
+196. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ALUX:inst26
+197. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ALUX:inst25
+198. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|RegisterX:inst10
+199. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ComparatorX:inst37
+200. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ConstantX:inst38
+201. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ComparatorX:inst16
+202. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ConstantX:inst19
+203. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|RegisterX:inst13
+204. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ComparatorX:inst35
+205. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ConstantX:inst36
+206. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|RegisterX:inst11
+207. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer2:inst18|ComparatorX:inst9
+208. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer2:inst18|ConstantX:inst4
+209. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer2:inst18|ComparatorX:inst7
+210. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer2:inst18|ConstantX:inst1
+211. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer2:inst18|ComparatorX:inst12
+212. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer2:inst18|ConstantX:inst5
+213. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer2:inst18|ComparatorX:inst11
+214. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer2:inst18|ConstantX:inst6
+215. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer2:inst18|RegisterX:inst8
+216. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ComparatorX:inst71
+217. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ConstantX:inst76
+218. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ComparatorX:inst63
+219. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|RegisterX:inst61
+220. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ConstantX:inst78
+221. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|MultiplexerX:inst85
+222. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|MX8:inst82|MultiplexerX:inst
+223. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|MX8:inst82|MX4:inst2|MultiplexerX:inst2
+224. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|MX8:inst82|MX4:inst2|MultiplexerX:inst
+225. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|MX8:inst82|MX4:inst2|MultiplexerX:inst1
+226. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|MX8:inst82|MX4:inst3|MultiplexerX:inst2
+227. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|MX8:inst82|MX4:inst3|MultiplexerX:inst
+228. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|MX8:inst82|MX4:inst3|MultiplexerX:inst1
+229. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|RegisterX:inst59
+230. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ComparatorX:inst73
+231. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ConstantX:inst80
+232. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ComparatorX:inst64
+233. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ConstantX:inst68
+234. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|RegisterX:inst62
+235. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ComparatorX:inst72
+236. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ConstantX:inst67
+237. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|RegisterX:inst60
+238. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ConstantX:inst6
+239. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|ConstantX:inst86
+240. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer0:inst3|ConstantX:inst6
+241. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer0:inst3|ConstantX:inst2
+242. Parameter Settings for User Entity Instance: KPVGA:inst15|VGAPer:inst|Layer0:inst3|ConstantX:inst8
+243. Parameter Settings for User Entity Instance: KPVGA:inst15|RegisterX:inst31
+244. Parameter Settings for User Entity Instance: KPVGA:inst15|RegisterX:inst29
+245. Parameter Settings for User Entity Instance: KPVGA:inst15|RegisterX:inst30
+246. Parameter Settings for User Entity Instance: KPVGA:inst15|RegisterX:inst32
+247. Parameter Settings for User Entity Instance: KPVGA:inst15|RegisterX:inst33
+248. Parameter Settings for User Entity Instance: KPVGA:inst15|ConstantX:inst4
+249. Parameter Settings for User Entity Instance: memTest:inst9|altsyncram:altsyncram_component
+250. altsyncram Parameter Settings by Entity Instance
+251. Elapsed Time Per Partition
+252. Analysis & Synthesis Messages
 
 
 
@@ -288,13 +283,13 @@ applicable agreement for further details.
 +---------------------------------------------------------------------------------+
 ; Analysis & Synthesis Summary                                                    ;
 +------------------------------------+--------------------------------------------+
-; Analysis & Synthesis Status        ; Successful - Fri Sep 18 17:25:01 2026      ;
+; Analysis & Synthesis Status        ; Successful - Tue Sep 22 14:42:46 2026      ;
 ; Quartus II 64-Bit Version          ; 13.1.0 Build 162 10/23/2013 SJ Web Edition ;
 ; Revision Name                      ; Main                                       ;
 ; Top-level Entity Name              ; Testiranje                                 ;
 ; Family                             ; Cyclone III                                ;
-; Total logic elements               ; 4,290                                      ;
-;     Total combinational functions  ; 2,920                                      ;
+; Total logic elements               ; 4,263                                      ;
+;     Total combinational functions  ; 2,893                                      ;
 ;     Dedicated logic registers      ; 1,802                                      ;
 ; Total registers                    ; 1802                                       ;
 ; Total pins                         ; 67                                         ;
@@ -403,72 +398,71 @@ Parallel compilation was disabled, but you have multiple processors available. E
 +----------------------------+--------+
 
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-; Analysis & Synthesis Source Files Read                                                                                                                                                           ;
-+----------------------------------+-----------------+------------------------------------------+----------------------------------------------------------------------------------------+---------+
-; File Name with User-Entered Path ; Used in Netlist ; File Type                                ; File Name with Absolute Path                                                           ; Library ;
-+----------------------------------+-----------------+------------------------------------------+----------------------------------------------------------------------------------------+---------+
-; KPVGA.bdf                        ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/KPVGA.bdf                 ;         ;
-; InterruptFaza.bdf                ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/InterruptFaza.bdf         ;         ;
-; CSRegFile.bdf                    ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/CSRegFile.bdf             ;         ;
-; seven_segment_display.vhd        ; yes             ; User VHDL File                           ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/seven_segment_display.vhd ;         ;
-; DecodeFaza.bdf                   ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/DecodeFaza.bdf            ;         ;
-; ExecuteFaza.bdf                  ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/ExecuteFaza.bdf           ;         ;
-; RegFile4.bdf                     ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/RegFile4.bdf              ;         ;
-; dc2.bdf                          ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/dc2.bdf                   ;         ;
-; Testiranje.bdf                   ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/Testiranje.bdf            ;         ;
-; dc4.bdf                          ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/dc4.bdf                   ;         ;
-; dc8.bdf                          ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/dc8.bdf                   ;         ;
-; regFile/RegFile32.bdf            ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/regFile/RegFile32.bdf     ;         ;
-; cd8.bdf                          ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/cd8.bdf                   ;         ;
-; ImpulseGenerator.vhd             ; yes             ; User VHDL File                           ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/ImpulseGenerator.vhd      ;         ;
-; CPU.bdf                          ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/CPU.bdf                   ;         ;
-; cpu_debug_fifo.vhd               ; yes             ; User VHDL File                           ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/cpu_debug_fifo.vhd        ;         ;
-; Layer2.bdf                       ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/Layer2.bdf                ;         ;
-; KPHex.bdf                        ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/KPHex.bdf                 ;         ;
-; registerx.vhd                    ; yes             ; Auto-Found VHDL File                     ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/registerx.vhd             ;         ;
-; fetchfaza.bdf                    ; yes             ; Auto-Found Block Diagram/Schematic File  ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/fetchfaza.bdf             ;         ;
-; comparatorx.vhd                  ; yes             ; Auto-Found VHDL File                     ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/comparatorx.vhd           ;         ;
-; multiplexerx.vhd                 ; yes             ; Auto-Found VHDL File                     ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/multiplexerx.vhd          ;         ;
-; alux.vhd                         ; yes             ; Auto-Found VHDL File                     ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/alux.vhd                  ;         ;
-; constantx.vhd                    ; yes             ; Auto-Found VHDL File                     ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/constantx.vhd             ;         ;
-; mx8.bdf                          ; yes             ; Auto-Found Block Diagram/Schematic File  ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/mx8.bdf                   ;         ;
-; mx4.bdf                          ; yes             ; Auto-Found Block Diagram/Schematic File  ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/mx4.bdf                   ;         ;
-; lpm_add_sub0.vhd                 ; yes             ; Auto-Found Wizard-Generated File         ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/lpm_add_sub0.vhd          ;         ;
-; lpm_add_sub.tdf                  ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/lpm_add_sub.tdf                         ;         ;
-; addcore.inc                      ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/addcore.inc                             ;         ;
-; look_add.inc                     ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/look_add.inc                            ;         ;
-; bypassff.inc                     ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/bypassff.inc                            ;         ;
-; altshift.inc                     ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/altshift.inc                            ;         ;
-; alt_stratix_add_sub.inc          ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/alt_stratix_add_sub.inc                 ;         ;
-; aglobal131.inc                   ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/aglobal131.inc                          ;         ;
-; db/add_sub_2ph.tdf               ; yes             ; Auto-Generated Megafunction              ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/db/add_sub_2ph.tdf        ;         ;
-; pc.vhd                           ; yes             ; Auto-Found VHDL File                     ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/pc.vhd                    ;         ;
-; cd4.bdf                          ; yes             ; Auto-Found Block Diagram/Schematic File  ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/cd4.bdf                   ;         ;
-; kptastature.bdf                  ; yes             ; Auto-Found Block Diagram/Schematic File  ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/kptastature.bdf           ;         ;
-; keyfetch.bdf                     ; yes             ; Auto-Found Block Diagram/Schematic File  ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/keyfetch.bdf              ;         ;
-; risingedgedetector.bdf           ; yes             ; Auto-Found Block Diagram/Schematic File  ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/risingedgedetector.bdf    ;         ;
-; debouncer.bdf                    ; yes             ; Auto-Found Block Diagram/Schematic File  ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/debouncer.bdf             ;         ;
-; register.bdf                     ; yes             ; Auto-Found Block Diagram/Schematic File  ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/register.bdf              ;         ;
-; vgaper.bdf                       ; yes             ; Auto-Found Block Diagram/Schematic File  ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/vgaper.bdf                ;         ;
-; controller.bdf                   ; yes             ; Auto-Found Block Diagram/Schematic File  ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/controller.bdf            ;         ;
-; layer1.bdf                       ; yes             ; Auto-Found Block Diagram/Schematic File  ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/layer1.bdf                ;         ;
-; videoram.vhd                     ; yes             ; Auto-Found Wizard-Generated File         ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/videoram.vhd              ;         ;
-; altsyncram.tdf                   ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/altsyncram.tdf                          ;         ;
-; stratix_ram_block.inc            ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/stratix_ram_block.inc                   ;         ;
-; lpm_mux.inc                      ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/lpm_mux.inc                             ;         ;
-; lpm_decode.inc                   ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/lpm_decode.inc                          ;         ;
-; a_rdenreg.inc                    ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/a_rdenreg.inc                           ;         ;
-; altrom.inc                       ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/altrom.inc                              ;         ;
-; altram.inc                       ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/altram.inc                              ;         ;
-; altdpram.inc                     ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/altdpram.inc                            ;         ;
-; db/altsyncram_tat3.tdf           ; yes             ; Auto-Generated Megafunction              ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/db/altsyncram_tat3.tdf    ;         ;
-; tetrisscene.mif                  ; yes             ; Auto-Found Memory Initialization File    ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/tetrisscene.mif           ;         ;
-; layer0.bdf                       ; yes             ; Auto-Found Block Diagram/Schematic File  ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/layer0.bdf                ;         ;
-; memtest.vhd                      ; yes             ; Auto-Found Wizard-Generated File         ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/memtest.vhd               ;         ;
-; db/altsyncram_dos3.tdf           ; yes             ; Auto-Generated Megafunction              ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/db/altsyncram_dos3.tdf    ;         ;
-; ../tetris.mif                    ; yes             ; Auto-Found Memory Initialization File    ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/tetris.mif                ;         ;
-+----------------------------------+-----------------+------------------------------------------+----------------------------------------------------------------------------------------+---------+
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Analysis & Synthesis Source Files Read                                                                                                                                                                   ;
++----------------------------------+-----------------+------------------------------------------+------------------------------------------------------------------------------------------------+---------+
+; File Name with User-Entered Path ; Used in Netlist ; File Type                                ; File Name with Absolute Path                                                                   ; Library ;
++----------------------------------+-----------------+------------------------------------------+------------------------------------------------------------------------------------------------+---------+
+; KPVGA.bdf                        ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/KPVGA.bdf                 ;         ;
+; InterruptFaza.bdf                ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/InterruptFaza.bdf         ;         ;
+; CSRegFile.bdf                    ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/CSRegFile.bdf             ;         ;
+; seven_segment_display.vhd        ; yes             ; User VHDL File                           ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/seven_segment_display.vhd ;         ;
+; DecodeFaza.bdf                   ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/DecodeFaza.bdf            ;         ;
+; ExecuteFaza.bdf                  ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/ExecuteFaza.bdf           ;         ;
+; RegFile4.bdf                     ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/RegFile4.bdf              ;         ;
+; dc2.bdf                          ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/dc2.bdf                   ;         ;
+; Testiranje.bdf                   ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/Testiranje.bdf            ;         ;
+; dc4.bdf                          ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/dc4.bdf                   ;         ;
+; dc8.bdf                          ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/dc8.bdf                   ;         ;
+; regFile/RegFile32.bdf            ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/regFile/RegFile32.bdf     ;         ;
+; cd8.bdf                          ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/cd8.bdf                   ;         ;
+; ImpulseGenerator.vhd             ; yes             ; User VHDL File                           ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/ImpulseGenerator.vhd      ;         ;
+; CPU.bdf                          ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/CPU.bdf                   ;         ;
+; Layer2.bdf                       ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/Layer2.bdf                ;         ;
+; KPHex.bdf                        ; yes             ; User Block Diagram/Schematic File        ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/KPHex.bdf                 ;         ;
+; registerx.vhd                    ; yes             ; Auto-Found VHDL File                     ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/registerx.vhd             ;         ;
+; fetchfaza.bdf                    ; yes             ; Auto-Found Block Diagram/Schematic File  ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/fetchfaza.bdf             ;         ;
+; comparatorx.vhd                  ; yes             ; Auto-Found VHDL File                     ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/comparatorx.vhd           ;         ;
+; multiplexerx.vhd                 ; yes             ; Auto-Found VHDL File                     ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/multiplexerx.vhd          ;         ;
+; alux.vhd                         ; yes             ; Auto-Found VHDL File                     ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/alux.vhd                  ;         ;
+; constantx.vhd                    ; yes             ; Auto-Found VHDL File                     ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/constantx.vhd             ;         ;
+; mx8.bdf                          ; yes             ; Auto-Found Block Diagram/Schematic File  ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/mx8.bdf                   ;         ;
+; mx4.bdf                          ; yes             ; Auto-Found Block Diagram/Schematic File  ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/mx4.bdf                   ;         ;
+; lpm_add_sub0.vhd                 ; yes             ; Auto-Found Wizard-Generated File         ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/lpm_add_sub0.vhd          ;         ;
+; lpm_add_sub.tdf                  ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/lpm_add_sub.tdf                                 ;         ;
+; addcore.inc                      ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/addcore.inc                                     ;         ;
+; look_add.inc                     ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/look_add.inc                                    ;         ;
+; bypassff.inc                     ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/bypassff.inc                                    ;         ;
+; altshift.inc                     ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/altshift.inc                                    ;         ;
+; alt_stratix_add_sub.inc          ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/alt_stratix_add_sub.inc                         ;         ;
+; aglobal131.inc                   ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/aglobal131.inc                                  ;         ;
+; db/add_sub_2ph.tdf               ; yes             ; Auto-Generated Megafunction              ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/db/add_sub_2ph.tdf        ;         ;
+; pc.vhd                           ; yes             ; Auto-Found VHDL File                     ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/pc.vhd                    ;         ;
+; cd4.bdf                          ; yes             ; Auto-Found Block Diagram/Schematic File  ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/cd4.bdf                   ;         ;
+; kptastature.bdf                  ; yes             ; Auto-Found Block Diagram/Schematic File  ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/kptastature.bdf           ;         ;
+; keyfetch.bdf                     ; yes             ; Auto-Found Block Diagram/Schematic File  ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/keyfetch.bdf              ;         ;
+; risingedgedetector.bdf           ; yes             ; Auto-Found Block Diagram/Schematic File  ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/risingedgedetector.bdf    ;         ;
+; debouncer.bdf                    ; yes             ; Auto-Found Block Diagram/Schematic File  ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/debouncer.bdf             ;         ;
+; register.bdf                     ; yes             ; Auto-Found Block Diagram/Schematic File  ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/register.bdf              ;         ;
+; vgaper.bdf                       ; yes             ; Auto-Found Block Diagram/Schematic File  ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/vgaper.bdf                ;         ;
+; controller.bdf                   ; yes             ; Auto-Found Block Diagram/Schematic File  ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/controller.bdf            ;         ;
+; layer1.bdf                       ; yes             ; Auto-Found Block Diagram/Schematic File  ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/layer1.bdf                ;         ;
+; videoram.vhd                     ; yes             ; Auto-Found Wizard-Generated File         ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/videoram.vhd              ;         ;
+; altsyncram.tdf                   ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/altsyncram.tdf                                  ;         ;
+; stratix_ram_block.inc            ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/stratix_ram_block.inc                           ;         ;
+; lpm_mux.inc                      ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/lpm_mux.inc                                     ;         ;
+; lpm_decode.inc                   ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/lpm_decode.inc                                  ;         ;
+; a_rdenreg.inc                    ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/a_rdenreg.inc                                   ;         ;
+; altrom.inc                       ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/altrom.inc                                      ;         ;
+; altram.inc                       ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/altram.inc                                      ;         ;
+; altdpram.inc                     ; yes             ; Megafunction                             ; c:/altera/13.1/quartus/libraries/megafunctions/altdpram.inc                                    ;         ;
+; db/altsyncram_tat3.tdf           ; yes             ; Auto-Generated Megafunction              ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/db/altsyncram_tat3.tdf    ;         ;
+; tetrisscene.mif                  ; yes             ; Auto-Found Memory Initialization File    ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/tetrisscene.mif           ;         ;
+; layer0.bdf                       ; yes             ; Auto-Found Block Diagram/Schematic File  ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/layer0.bdf                ;         ;
+; memtest.vhd                      ; yes             ; Auto-Found Wizard-Generated File         ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/memtest.vhd               ;         ;
+; db/altsyncram_s0t3.tdf           ; yes             ; Auto-Generated Megafunction              ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/db/altsyncram_s0t3.tdf    ;         ;
+; tetrisCode.mif                   ; yes             ; Auto-Found Memory Initialization File    ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/tetrisCode.mif            ;         ;
++----------------------------------+-----------------+------------------------------------------+------------------------------------------------------------------------------------------------+---------+
 
 
 +---------------------------------------------------------+
@@ -476,16 +470,16 @@ Parallel compilation was disabled, but you have multiple processors available. E
 +---------------------------------------------+-----------+
 ; Resource                                    ; Usage     ;
 +---------------------------------------------+-----------+
-; Estimated Total logic elements              ; 4,290     ;
+; Estimated Total logic elements              ; 4,263     ;
 ;                                             ;           ;
-; Total combinational functions               ; 2920      ;
+; Total combinational functions               ; 2893      ;
 ; Logic element usage by number of LUT inputs ;           ;
-;     -- 4 input functions                    ; 2015      ;
-;     -- 3 input functions                    ; 600       ;
-;     -- <=2 input functions                  ; 305       ;
+;     -- 4 input functions                    ; 2089      ;
+;     -- 3 input functions                    ; 464       ;
+;     -- <=2 input functions                  ; 340       ;
 ;                                             ;           ;
 ; Logic elements by mode                      ;           ;
-;     -- normal mode                          ; 2623      ;
+;     -- normal mode                          ; 2596      ;
 ;     -- arithmetic mode                      ; 297       ;
 ;                                             ;           ;
 ; Total registers                             ; 1802      ;
@@ -497,8 +491,8 @@ Parallel compilation was disabled, but you have multiple processors available. E
 ; Embedded Multiplier 9-bit elements          ; 0         ;
 ; Maximum fan-out node                        ; CLK~input ;
 ; Maximum fan-out                             ; 1827      ;
-; Total fan-out                               ; 16803     ;
-; Average fan-out                             ; 3.43      ;
+; Total fan-out                               ; 16751     ;
+; Average fan-out                             ; 3.44      ;
 +---------------------------------------------+-----------+
 
 
@@ -507,9 +501,9 @@ Parallel compilation was disabled, but you have multiple processors available. E
 +-------------------------------------------------+-------------------+--------------+-------------+--------------+---------+-----------+------+--------------+--------------------------------------------------------------------------------------------------------------------------+--------------+
 ; Compilation Hierarchy Node                      ; LC Combinationals ; LC Registers ; Memory Bits ; DSP Elements ; DSP 9x9 ; DSP 18x18 ; Pins ; Virtual Pins ; Full Hierarchy Name                                                                                                      ; Library Name ;
 +-------------------------------------------------+-------------------+--------------+-------------+--------------+---------+-----------+------+--------------+--------------------------------------------------------------------------------------------------------------------------+--------------+
-; |Testiranje                                     ; 2920 (62)         ; 1802 (0)     ; 265216      ; 0            ; 0       ; 0         ; 67   ; 0            ; |Testiranje                                                                                                              ; work         ;
-;    |CPU:inst|                                   ; 2538 (35)         ; 1548 (4)     ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst                                                                                                     ; work         ;
-;       |CSRegFile:inst31|                        ; 373 (299)         ; 320 (0)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|CSRegFile:inst31                                                                                    ; work         ;
+; |Testiranje                                     ; 2893 (46)         ; 1802 (0)     ; 265216      ; 0            ; 0       ; 0         ; 67   ; 0            ; |Testiranje                                                                                                              ; work         ;
+;    |CPU:inst|                                   ; 2528 (35)         ; 1548 (4)     ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst                                                                                                     ; work         ;
+;       |CSRegFile:inst31|                        ; 376 (301)         ; 320 (0)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|CSRegFile:inst31                                                                                    ; work         ;
 ;          |RegisterX:inst1|                      ; 0 (0)             ; 32 (32)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|CSRegFile:inst31|RegisterX:inst1                                                                    ; work         ;
 ;          |RegisterX:inst2|                      ; 0 (0)             ; 32 (32)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|CSRegFile:inst31|RegisterX:inst2                                                                    ; work         ;
 ;          |RegisterX:inst39|                     ; 32 (32)           ; 32 (32)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|CSRegFile:inst31|RegisterX:inst39                                                                   ; work         ;
@@ -517,34 +511,35 @@ Parallel compilation was disabled, but you have multiple processors available. E
 ;          |RegisterX:inst46|                     ; 0 (0)             ; 32 (32)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|CSRegFile:inst31|RegisterX:inst46                                                                   ; work         ;
 ;          |RegisterX:inst4|                      ; 0 (0)             ; 32 (32)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|CSRegFile:inst31|RegisterX:inst4                                                                    ; work         ;
 ;          |RegisterX:inst53|                     ; 0 (0)             ; 31 (31)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|CSRegFile:inst31|RegisterX:inst53                                                                   ; work         ;
-;          |RegisterX:inst61|                     ; 2 (2)             ; 1 (1)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|CSRegFile:inst31|RegisterX:inst61                                                                   ; work         ;
+;          |RegisterX:inst61|                     ; 3 (3)             ; 1 (1)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|CSRegFile:inst31|RegisterX:inst61                                                                   ; work         ;
 ;          |RegisterX:inst65|                     ; 33 (33)           ; 32 (32)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|CSRegFile:inst31|RegisterX:inst65                                                                   ; work         ;
 ;          |RegisterX:inst68|                     ; 0 (0)             ; 1 (1)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|CSRegFile:inst31|RegisterX:inst68                                                                   ; work         ;
 ;          |RegisterX:inst74|                     ; 2 (2)             ; 1 (1)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|CSRegFile:inst31|RegisterX:inst74                                                                   ; work         ;
 ;          |RegisterX:inst76|                     ; 2 (2)             ; 1 (1)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|CSRegFile:inst31|RegisterX:inst76                                                                   ; work         ;
 ;          |RegisterX:inst8|                      ; 0 (0)             ; 30 (30)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|CSRegFile:inst31|RegisterX:inst8                                                                    ; work         ;
 ;          |RegisterX:inst|                       ; 0 (0)             ; 31 (31)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|CSRegFile:inst31|RegisterX:inst                                                                     ; work         ;
-;       |DecodeFaza:inst|                         ; 187 (162)         ; 101 (5)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst                                                                                     ; work         ;
+;       |DecodeFaza:inst|                         ; 172 (147)         ; 101 (5)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst                                                                                     ; work         ;
 ;          |RegisterX:inst62|                     ; 0 (0)             ; 32 (32)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|RegisterX:inst62                                                                    ; work         ;
 ;          |RegisterX:inst63|                     ; 0 (0)             ; 32 (32)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|RegisterX:inst63                                                                    ; work         ;
 ;          |RegisterX:inst77|                     ; 0 (0)             ; 32 (32)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|RegisterX:inst77                                                                    ; work         ;
-;          |dc4:inst19|                           ; 3 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc4:inst19                                                                          ; work         ;
+;          |dc4:inst19|                           ; 2 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc4:inst19                                                                          ; work         ;
 ;             |dc2:inst1|                         ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc4:inst19|dc2:inst1                                                                ; work         ;
-;             |dc2:inst2|                         ; 2 (2)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc4:inst19|dc2:inst2                                                                ; work         ;
-;          |dc4:inst20|                           ; 6 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc4:inst20                                                                          ; work         ;
+;             |dc2:inst2|                         ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc4:inst19|dc2:inst2                                                                ; work         ;
+;          |dc4:inst20|                           ; 5 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc4:inst20                                                                          ; work         ;
 ;             |dc2:inst2|                         ; 2 (2)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc4:inst20|dc2:inst2                                                                ; work         ;
-;             |dc2:inst|                          ; 4 (4)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc4:inst20|dc2:inst                                                                 ; work         ;
-;          |dc4:inst25|                           ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc4:inst25                                                                          ; work         ;
-;             |dc2:inst1|                         ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc4:inst25|dc2:inst1                                                                ; work         ;
-;          |dc4:inst5|                            ; 4 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc4:inst5                                                                           ; work         ;
+;             |dc2:inst|                          ; 3 (3)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc4:inst20|dc2:inst                                                                 ; work         ;
+;          |dc4:inst25|                           ; 2 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc4:inst25                                                                          ; work         ;
+;             |dc2:inst1|                         ; 2 (2)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc4:inst25|dc2:inst1                                                                ; work         ;
+;          |dc4:inst5|                            ; 5 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc4:inst5                                                                           ; work         ;
 ;             |dc2:inst1|                         ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc4:inst5|dc2:inst1                                                                 ; work         ;
-;             |dc2:inst2|                         ; 2 (2)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc4:inst5|dc2:inst2                                                                 ; work         ;
+;             |dc2:inst2|                         ; 3 (3)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc4:inst5|dc2:inst2                                                                 ; work         ;
 ;             |dc2:inst|                          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc4:inst5|dc2:inst                                                                  ; work         ;
 ;          |dc8:inst24|                           ; 4 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc8:inst24                                                                          ; work         ;
-;             |dc4:inst4|                         ; 3 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc8:inst24|dc4:inst4                                                                ; work         ;
-;                |dc2:inst2|                      ; 3 (3)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc8:inst24|dc4:inst4|dc2:inst2                                                      ; work         ;
-;             |dc4:inst|                          ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc8:inst24|dc4:inst                                                                 ; work         ;
+;             |dc4:inst4|                         ; 2 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc8:inst24|dc4:inst4                                                                ; work         ;
+;                |dc2:inst2|                      ; 2 (2)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc8:inst24|dc4:inst4|dc2:inst2                                                      ; work         ;
+;             |dc4:inst|                          ; 2 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc8:inst24|dc4:inst                                                                 ; work         ;
 ;                |dc2:inst1|                      ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc8:inst24|dc4:inst|dc2:inst1                                                       ; work         ;
+;                |dc2:inst|                       ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc8:inst24|dc4:inst|dc2:inst                                                        ; work         ;
 ;          |dc8:inst35|                           ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc8:inst35                                                                          ; work         ;
 ;             |dc4:inst|                          ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc8:inst35|dc4:inst                                                                 ; work         ;
 ;                |dc2:inst2|                      ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc8:inst35|dc4:inst|dc2:inst2                                                       ; work         ;
@@ -557,16 +552,16 @@ Parallel compilation was disabled, but you have multiple processors available. E
 ;             |dc4:inst|                          ; 4 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc8:inst6|dc4:inst                                                                  ; work         ;
 ;                |dc2:inst1|                      ; 3 (3)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc8:inst6|dc4:inst|dc2:inst1                                                        ; work         ;
 ;                |dc2:inst|                       ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|DecodeFaza:inst|dc8:inst6|dc4:inst|dc2:inst                                                         ; work         ;
-;       |ExecuteFaza:inst46|                      ; 1003 (53)         ; 6 (6)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|ExecuteFaza:inst46                                                                                  ; work         ;
-;          |ALUX:inst|                            ; 605 (605)         ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|ExecuteFaza:inst46|ALUX:inst                                                                        ; work         ;
+;       |ExecuteFaza:inst46|                      ; 983 (47)          ; 6 (6)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|ExecuteFaza:inst46                                                                                  ; work         ;
+;          |ALUX:inst|                            ; 601 (601)         ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|ExecuteFaza:inst46|ALUX:inst                                                                        ; work         ;
 ;          |ComparatorX:inst66|                   ; 84 (84)           ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|ExecuteFaza:inst46|ComparatorX:inst66                                                               ; work         ;
-;          |MultiplexerX:inst11|                  ; 80 (80)           ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst11                                                              ; work         ;
+;          |MultiplexerX:inst11|                  ; 84 (84)           ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst11                                                              ; work         ;
 ;          |MultiplexerX:inst27|                  ; 32 (32)           ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst27                                                              ; work         ;
-;          |MultiplexerX:inst52|                  ; 6 (6)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst52                                                              ; work         ;
-;          |MultiplexerX:inst60|                  ; 99 (99)           ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst60                                                              ; work         ;
+;          |MultiplexerX:inst52|                  ; 7 (7)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst52                                                              ; work         ;
+;          |MultiplexerX:inst60|                  ; 86 (86)           ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst60                                                              ; work         ;
 ;          |MultiplexerX:inst75|                  ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst75                                                              ; work         ;
 ;          |MultiplexerX:inst77|                  ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst77                                                              ; work         ;
-;          |cd8:inst36|                           ; 12 (12)           ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|ExecuteFaza:inst46|cd8:inst36                                                                       ; work         ;
+;          |cd8:inst36|                           ; 10 (10)           ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|ExecuteFaza:inst46|cd8:inst36                                                                       ; work         ;
 ;          |lpm_add_sub0:inst28|                  ; 30 (0)            ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|ExecuteFaza:inst46|lpm_add_sub0:inst28                                                              ; work         ;
 ;             |lpm_add_sub:LPM_ADD_SUB_component| ; 30 (0)            ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|ExecuteFaza:inst46|lpm_add_sub0:inst28|lpm_add_sub:LPM_ADD_SUB_component                            ; work         ;
 ;                |add_sub_2ph:auto_generated|     ; 30 (30)           ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|ExecuteFaza:inst46|lpm_add_sub0:inst28|lpm_add_sub:LPM_ADD_SUB_component|add_sub_2ph:auto_generated ; work         ;
@@ -575,8 +570,9 @@ Parallel compilation was disabled, but you have multiple processors available. E
 ;       |InterruptFaza:inst12|                    ; 9 (9)             ; 6 (6)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|InterruptFaza:inst12                                                                                ; work         ;
 ;       |MultiplexerX:inst14|                     ; 15 (15)           ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|MultiplexerX:inst14                                                                                 ; work         ;
 ;       |MultiplexerX:inst25|                     ; 2 (2)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|MultiplexerX:inst25                                                                                 ; work         ;
-;       |MultiplexerX:inst33|                     ; 40 (40)           ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|MultiplexerX:inst33                                                                                 ; work         ;
-;       |PC:inst8|                                ; 93 (93)           ; 32 (32)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|PC:inst8                                                                                            ; work         ;
+;       |MultiplexerX:inst30|                     ; 4 (4)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|MultiplexerX:inst30                                                                                 ; work         ;
+;       |MultiplexerX:inst33|                     ; 42 (42)           ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|MultiplexerX:inst33                                                                                 ; work         ;
+;       |PC:inst8|                                ; 94 (94)           ; 32 (32)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|PC:inst8                                                                                            ; work         ;
 ;       |RegFile32:inst4|                         ; 733 (1)           ; 992 (0)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|RegFile32:inst4                                                                                     ; work         ;
 ;          |MultiplexerX:inst12|                  ; 672 (672)         ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|RegFile32:inst4|MultiplexerX:inst12                                                                 ; work         ;
 ;          |RegFile4:inst10|                      ; 7 (4)             ; 128 (0)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|RegFile32:inst4|RegFile4:inst10                                                                     ; work         ;
@@ -634,10 +630,10 @@ Parallel compilation was disabled, but you have multiple processors available. E
 ;             |cd4:inst4|                         ; 2 (2)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|RegFile32:inst4|RegFile4:inst|cd4:inst4                                                             ; work         ;
 ;             |dc4:inst3|                         ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|RegFile32:inst4|RegFile4:inst|dc4:inst3                                                             ; work         ;
 ;                |dc2:inst2|                      ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|RegFile32:inst4|RegFile4:inst|dc4:inst3|dc2:inst2                                                   ; work         ;
-;       |RegisterX:inst23|                        ; 42 (42)           ; 32 (32)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|RegisterX:inst23                                                                                    ; work         ;
+;       |RegisterX:inst23|                        ; 57 (57)           ; 32 (32)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|RegisterX:inst23                                                                                    ; work         ;
 ;       |RegisterX:inst28|                        ; 0 (0)             ; 17 (17)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|RegisterX:inst28                                                                                    ; work         ;
 ;       |pulse_gen:inst64|                        ; 1 (1)             ; 2 (2)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|CPU:inst|pulse_gen:inst64                                                                                    ; work         ;
-;    |KPHex:inst12|                               ; 2 (2)             ; 16 (0)       ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPHex:inst12                                                                                                 ; work         ;
+;    |KPHex:inst12|                               ; 3 (3)             ; 16 (0)       ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPHex:inst12                                                                                                 ; work         ;
 ;       |RegisterX:inst30|                        ; 0 (0)             ; 16 (16)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPHex:inst12|RegisterX:inst30                                                                                ; work         ;
 ;    |KPTastature:inst11|                         ; 34 (12)           ; 82 (3)       ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPTastature:inst11                                                                                           ; work         ;
 ;       |KeyFetch:inst|                           ; 11 (5)            ; 35 (28)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPTastature:inst11|KeyFetch:inst                                                                             ; work         ;
@@ -649,14 +645,14 @@ Parallel compilation was disabled, but you have multiple processors available. E
 ;       |RegisterX:inst29|                        ; 0 (0)             ; 32 (32)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPTastature:inst11|RegisterX:inst29                                                                          ; work         ;
 ;       |RegisterX:inst3|                         ; 11 (11)           ; 10 (10)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPTastature:inst11|RegisterX:inst3                                                                           ; work         ;
 ;       |RisingEdgeDetector:inst48|               ; 0 (0)             ; 2 (2)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPTastature:inst11|RisingEdgeDetector:inst48                                                                 ; work         ;
-;    |KPVGA:inst15|                               ; 256 (11)          ; 128 (2)      ; 3072        ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPVGA:inst15                                                                                                 ; work         ;
+;    |KPVGA:inst15|                               ; 254 (9)           ; 128 (2)      ; 3072        ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPVGA:inst15                                                                                                 ; work         ;
 ;       |RegisterX:inst29|                        ; 0 (0)             ; 2 (2)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPVGA:inst15|RegisterX:inst29                                                                                ; work         ;
 ;       |RegisterX:inst30|                        ; 6 (6)             ; 12 (12)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPVGA:inst15|RegisterX:inst30                                                                                ; work         ;
 ;       |RegisterX:inst31|                        ; 8 (8)             ; 8 (8)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPVGA:inst15|RegisterX:inst31                                                                                ; work         ;
 ;       |RegisterX:inst32|                        ; 0 (0)             ; 12 (12)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPVGA:inst15|RegisterX:inst32                                                                                ; work         ;
 ;       |RegisterX:inst33|                        ; 0 (0)             ; 8 (8)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPVGA:inst15|RegisterX:inst33                                                                                ; work         ;
 ;       |RisingEdgeDetector:inst48|               ; 0 (0)             ; 2 (2)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPVGA:inst15|RisingEdgeDetector:inst48                                                                       ; work         ;
-;       |VGAPer:inst|                             ; 231 (33)          ; 82 (4)       ; 3072        ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPVGA:inst15|VGAPer:inst                                                                                     ; work         ;
+;       |VGAPer:inst|                             ; 231 (32)          ; 82 (4)       ; 3072        ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPVGA:inst15|VGAPer:inst                                                                                     ; work         ;
 ;          |ALUX:inst25|                          ; 5 (5)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPVGA:inst15|VGAPer:inst|ALUX:inst25                                                                         ; work         ;
 ;          |ALUX:inst26|                          ; 14 (14)           ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPVGA:inst15|VGAPer:inst|ALUX:inst26                                                                         ; work         ;
 ;          |ComparatorX:inst14|                   ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPVGA:inst15|VGAPer:inst|ComparatorX:inst14                                                                  ; work         ;
@@ -691,7 +687,7 @@ Parallel compilation was disabled, but you have multiple processors available. E
 ;          |RegisterX:inst11|                     ; 5 (5)             ; 5 (5)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPVGA:inst15|VGAPer:inst|RegisterX:inst11                                                                    ; work         ;
 ;          |RegisterX:inst12|                     ; 10 (10)           ; 5 (5)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPVGA:inst15|VGAPer:inst|RegisterX:inst12                                                                    ; work         ;
 ;          |RegisterX:inst13|                     ; 10 (10)           ; 5 (5)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPVGA:inst15|VGAPer:inst|RegisterX:inst13                                                                    ; work         ;
-;          |RegisterX:inst59|                     ; 1 (1)             ; 1 (1)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPVGA:inst15|VGAPer:inst|RegisterX:inst59                                                                    ; work         ;
+;          |RegisterX:inst59|                     ; 2 (2)             ; 1 (1)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPVGA:inst15|VGAPer:inst|RegisterX:inst59                                                                    ; work         ;
 ;          |RegisterX:inst60|                     ; 4 (4)             ; 2 (2)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPVGA:inst15|VGAPer:inst|RegisterX:inst60                                                                    ; work         ;
 ;          |RegisterX:inst61|                     ; 10 (10)           ; 5 (5)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPVGA:inst15|VGAPer:inst|RegisterX:inst61                                                                    ; work         ;
 ;          |RegisterX:inst62|                     ; 12 (12)           ; 5 (5)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPVGA:inst15|VGAPer:inst|RegisterX:inst62                                                                    ; work         ;
@@ -700,7 +696,7 @@ Parallel compilation was disabled, but you have multiple processors available. E
 ;                |altsyncram_tat3:auto_generated| ; 0 (0)             ; 0 (0)        ; 3072        ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|KPVGA:inst15|VGAPer:inst|VideoRAM:inst9|altsyncram:altsyncram_component|altsyncram_tat3:auto_generated       ; work         ;
 ;    |memTest:inst9|                              ; 0 (0)             ; 0 (0)        ; 262144      ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|memTest:inst9                                                                                                ; work         ;
 ;       |altsyncram:altsyncram_component|         ; 0 (0)             ; 0 (0)        ; 262144      ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|memTest:inst9|altsyncram:altsyncram_component                                                                ; work         ;
-;          |altsyncram_dos3:auto_generated|       ; 0 (0)             ; 0 (0)        ; 262144      ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|memTest:inst9|altsyncram:altsyncram_component|altsyncram_dos3:auto_generated                                 ; work         ;
+;          |altsyncram_s0t3:auto_generated|       ; 0 (0)             ; 0 (0)        ; 262144      ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|memTest:inst9|altsyncram:altsyncram_component|altsyncram_s0t3:auto_generated                                 ; work         ;
 ;    |seven_segment_display:inst18|               ; 7 (7)             ; 7 (7)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|seven_segment_display:inst18                                                                                 ; work         ;
 ;    |seven_segment_display:inst19|               ; 7 (7)             ; 7 (7)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|seven_segment_display:inst19                                                                                 ; work         ;
 ;    |seven_segment_display:inst20|               ; 7 (7)             ; 7 (7)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |Testiranje|seven_segment_display:inst20                                                                                 ; work         ;
@@ -715,19 +711,19 @@ Note: For table entries with two numbers listed, the numbers in parentheses indi
 ; Name                                                                                                              ; Type ; Mode        ; Port A Depth ; Port A Width ; Port B Depth ; Port B Width ; Size   ; MIF                ;
 +-------------------------------------------------------------------------------------------------------------------+------+-------------+--------------+--------------+--------------+--------------+--------+--------------------+
 ; KPVGA:inst15|VGAPer:inst|VideoRAM:inst9|altsyncram:altsyncram_component|altsyncram_tat3:auto_generated|ALTSYNCRAM ; AUTO ; Single Port ; 256          ; 12           ; --           ; --           ; 3072   ; ../tetrisScene.mif ;
-; memTest:inst9|altsyncram:altsyncram_component|altsyncram_dos3:auto_generated|ALTSYNCRAM                           ; M9K  ; Single Port ; 8192         ; 32           ; --           ; --           ; 262144 ; ../tetris.mif      ;
+; memTest:inst9|altsyncram:altsyncram_component|altsyncram_s0t3:auto_generated|ALTSYNCRAM                           ; M9K  ; Single Port ; 8192         ; 32           ; --           ; --           ; 262144 ; tetrisCode.mif     ;
 +-------------------------------------------------------------------------------------------------------------------+------+-------------+--------------+--------------+--------------+--------------+--------+--------------------+
 
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-; Analysis & Synthesis IP Cores Summary                                                                                                                                                                       ;
-+--------+--------------+---------+--------------+--------------+-------------------------------------------------------------+-------------------------------------------------------------------------------+
-; Vendor ; IP Core Name ; Version ; Release Date ; License Type ; Entity Instance                                             ; IP Include File                                                               ;
-+--------+--------------+---------+--------------+--------------+-------------------------------------------------------------+-------------------------------------------------------------------------------+
-; Altera ; LPM_ADD_SUB  ; N/A     ; N/A          ; N/A          ; |Testiranje|CPU:inst|ExecuteFaza:inst46|lpm_add_sub0:inst28 ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/lpm_add_sub0.vhd ;
-; Altera ; RAM: 1-PORT  ; N/A     ; N/A          ; N/A          ; |Testiranje|memTest:inst9                                   ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/memtest.vhd      ;
-; Altera ; RAM: 1-PORT  ; N/A     ; N/A          ; N/A          ; |Testiranje|KPVGA:inst15|VGAPer:inst|VideoRAM:inst9         ; C:/Users/TEMP/Desktop/AR-project-Tetris/quartus/execute faza/videoram.vhd     ;
-+--------+--------------+---------+--------------+--------------+-------------------------------------------------------------+-------------------------------------------------------------------------------+
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Analysis & Synthesis IP Cores Summary                                                                                                                                                                               ;
++--------+--------------+---------+--------------+--------------+-------------------------------------------------------------+---------------------------------------------------------------------------------------+
+; Vendor ; IP Core Name ; Version ; Release Date ; License Type ; Entity Instance                                             ; IP Include File                                                                       ;
++--------+--------------+---------+--------------+--------------+-------------------------------------------------------------+---------------------------------------------------------------------------------------+
+; Altera ; LPM_ADD_SUB  ; N/A     ; N/A          ; N/A          ; |Testiranje|CPU:inst|ExecuteFaza:inst46|lpm_add_sub0:inst28 ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/lpm_add_sub0.vhd ;
+; Altera ; RAM: 1-PORT  ; N/A     ; N/A          ; N/A          ; |Testiranje|memTest:inst9                                   ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/memtest.vhd      ;
+; Altera ; RAM: 1-PORT  ; N/A     ; N/A          ; N/A          ; |Testiranje|KPVGA:inst15|VGAPer:inst|VideoRAM:inst9         ; C:/Users/TEMP/Desktop/PortableGit/Arhitektura-racunara-Tetris/Tetris/videoram.vhd     ;
++--------+--------------+---------+--------------+--------------+-------------------------------------------------------------+---------------------------------------------------------------------------------------+
 
 
 +------------------------------------------------------------+
@@ -735,7 +731,7 @@ Note: For table entries with two numbers listed, the numbers in parentheses indi
 +--------------------------------------------------------+---+
 ; Logic Cell Name                                        ;   ;
 +--------------------------------------------------------+---+
-; CPU:inst|InterruptFaza:inst12|inst~0                   ;   ;
+; CPU:inst|inst43~0                                      ;   ;
 ; Number of logic cells representing combinational loops ; 1 ;
 +--------------------------------------------------------+---+
 Note: All cells listed above may not be present at the end of synthesis due to various synthesis optimizations.
@@ -750,7 +746,6 @@ Note: All cells listed above may not be present at the end of synthesis due to v
 ; CPU:inst|ExecuteFaza:inst46|inst1                                    ; Stuck at VCC due to stuck port preset             ;
 ; CPU:inst|ExecuteFaza:inst46|inst51                                   ; Stuck at VCC due to stuck port preset             ;
 ; CPU:inst|FetchFaza:inst24|inst12                                     ; Stuck at VCC due to stuck port preset             ;
-; KPHex:inst12|RegisterX:inst30|data[16..31]                           ; Lost fanout                                       ;
 ; KPVGA:inst15|RegisterX:inst33|data[8..31]                            ; Lost fanout                                       ;
 ; KPVGA:inst15|RegisterX:inst32|data[12..31]                           ; Lost fanout                                       ;
 ; KPVGA:inst15|RegisterX:inst30|data[12..31]                           ; Lost fanout                                       ;
@@ -760,6 +755,7 @@ Note: All cells listed above may not be present at the end of synthesis due to v
 ; CPU:inst|CSRegFile:inst31|RegisterX:inst|data[11]                    ; Lost fanout                                       ;
 ; CPU:inst|CSRegFile:inst31|RegisterX:inst8|data[3,7]                  ; Lost fanout                                       ;
 ; CPU:inst|CSRegFile:inst31|RegisterX:inst53|data[11]                  ; Lost fanout                                       ;
+; KPHex:inst12|RegisterX:inst30|data[16..31]                           ; Lost fanout                                       ;
 ; CPU:inst|CSRegFile:inst31|inst97                                     ; Stuck at VCC due to stuck port data_in            ;
 ; KPTastature:inst11|KeyFetch:inst|inst23                              ; Merged with KPTastature:inst11|KeyFetch:inst|inst ;
 ; CPU:inst|InterruptFaza:inst12|inst40                                 ; Stuck at GND due to stuck port data_in            ;
@@ -789,12 +785,12 @@ Note: All cells listed above may not be present at the end of synthesis due to v
 +----------------------------------------------------------------+---------+
 ; Inverted Register                                              ; Fan out ;
 +----------------------------------------------------------------+---------+
-; CPU:inst|FetchFaza:inst24|RegisterX:inst2|data[4]              ; 26      ;
-; CPU:inst|FetchFaza:inst24|RegisterX:inst2|data[1]              ; 5       ;
-; CPU:inst|FetchFaza:inst24|RegisterX:inst2|data[0]              ; 5       ;
 ; KPVGA:inst15|VGAPer:inst|Layer1:inst5|RegisterX:inst8|data[11] ; 1       ;
-; KPTastature:inst11|RegisterX:inst3|data[3]                     ; 1       ;
+; CPU:inst|FetchFaza:inst24|RegisterX:inst2|data[4]              ; 33      ;
+; CPU:inst|FetchFaza:inst24|RegisterX:inst2|data[1]              ; 4       ;
+; CPU:inst|FetchFaza:inst24|RegisterX:inst2|data[0]              ; 4       ;
 ; KPTastature:inst11|RegisterX:inst3|data[0]                     ; 1       ;
+; KPTastature:inst11|RegisterX:inst3|data[3]                     ; 1       ;
 ; KPTastature:inst11|RegisterX:inst3|data[5]                     ; 1       ;
 ; CPU:inst|inst6                                                 ; 2       ;
 ; Total number of inverted registers = 8                         ;         ;
@@ -806,35 +802,35 @@ Note: All cells listed above may not be present at the end of synthesis due to v
 +--------------------+-----------+---------------+----------------------+------------------------+------------+-------------------------------------------------------------------------------+
 ; Multiplexer Inputs ; Bus Width ; Baseline Area ; Area if Restructured ; Saving if Restructured ; Registered ; Example Multiplexer Output                                                    ;
 +--------------------+-----------+---------------+----------------------+------------------------+------------+-------------------------------------------------------------------------------+
-; 3:1                ; 5 bits    ; 10 LEs        ; 5 LEs                ; 5 LEs                  ; Yes        ; |Testiranje|KPVGA:inst15|VGAPer:inst|RegisterX:inst12|data[0]                 ;
-; 3:1                ; 5 bits    ; 10 LEs        ; 5 LEs                ; 5 LEs                  ; Yes        ; |Testiranje|KPVGA:inst15|VGAPer:inst|RegisterX:inst61|data[3]                 ;
-; 3:1                ; 10 bits   ; 20 LEs        ; 10 LEs               ; 10 LEs                 ; Yes        ; |Testiranje|KPVGA:inst15|VGAPer:inst|Controller:inst4|RegisterX:inst3|data[1] ;
-; 3:1                ; 2 bits    ; 4 LEs         ; 2 LEs                ; 2 LEs                  ; Yes        ; |Testiranje|KPVGA:inst15|VGAPer:inst|RegisterX:inst60|data[1]                 ;
-; 3:1                ; 5 bits    ; 10 LEs        ; 5 LEs                ; 5 LEs                  ; Yes        ; |Testiranje|KPVGA:inst15|VGAPer:inst|RegisterX:inst62|data[1]                 ;
-; 3:1                ; 7 bits    ; 14 LEs        ; 7 LEs                ; 7 LEs                  ; Yes        ; |Testiranje|KPTastature:inst11|RegisterX:inst3|data[6]                        ;
+; 3:1                ; 5 bits    ; 10 LEs        ; 5 LEs                ; 5 LEs                  ; Yes        ; |Testiranje|KPVGA:inst15|VGAPer:inst|RegisterX:inst12|data[4]                 ;
+; 3:1                ; 5 bits    ; 10 LEs        ; 5 LEs                ; 5 LEs                  ; Yes        ; |Testiranje|KPVGA:inst15|VGAPer:inst|RegisterX:inst61|data[1]                 ;
+; 3:1                ; 10 bits   ; 20 LEs        ; 10 LEs               ; 10 LEs                 ; Yes        ; |Testiranje|KPVGA:inst15|VGAPer:inst|Controller:inst4|RegisterX:inst3|data[9] ;
+; 3:1                ; 2 bits    ; 4 LEs         ; 2 LEs                ; 2 LEs                  ; Yes        ; |Testiranje|KPVGA:inst15|VGAPer:inst|RegisterX:inst60|data[0]                 ;
+; 3:1                ; 5 bits    ; 10 LEs        ; 5 LEs                ; 5 LEs                  ; Yes        ; |Testiranje|KPVGA:inst15|VGAPer:inst|RegisterX:inst62|data[3]                 ;
 ; 3:1                ; 8 bits    ; 16 LEs        ; 8 LEs                ; 8 LEs                  ; Yes        ; |Testiranje|KPVGA:inst15|RegisterX:inst31|data[4]                             ;
-; 3:1                ; 5 bits    ; 10 LEs        ; 5 LEs                ; 5 LEs                  ; Yes        ; |Testiranje|KPVGA:inst15|VGAPer:inst|RegisterX:inst11|data[2]                 ;
+; 3:1                ; 5 bits    ; 10 LEs        ; 5 LEs                ; 5 LEs                  ; Yes        ; |Testiranje|KPVGA:inst15|VGAPer:inst|RegisterX:inst11|data[3]                 ;
 ; 3:1                ; 12 bits   ; 24 LEs        ; 12 LEs               ; 12 LEs                 ; Yes        ; |Testiranje|KPVGA:inst15|RegisterX:inst30|data[10]                            ;
-; 3:1                ; 5 bits    ; 10 LEs        ; 5 LEs                ; 5 LEs                  ; Yes        ; |Testiranje|KPVGA:inst15|VGAPer:inst|RegisterX:inst13|data[1]                 ;
+; 3:1                ; 5 bits    ; 10 LEs        ; 5 LEs                ; 5 LEs                  ; Yes        ; |Testiranje|KPVGA:inst15|VGAPer:inst|RegisterX:inst13|data[4]                 ;
 ; 3:1                ; 5 bits    ; 10 LEs        ; 5 LEs                ; 5 LEs                  ; Yes        ; |Testiranje|KPVGA:inst15|VGAPer:inst|RegisterX:inst10|data[4]                 ;
+; 3:1                ; 7 bits    ; 14 LEs        ; 7 LEs                ; 7 LEs                  ; Yes        ; |Testiranje|KPTastature:inst11|RegisterX:inst3|data[9]                        ;
 ; 3:1                ; 11 bits   ; 22 LEs        ; 11 LEs               ; 11 LEs                 ; Yes        ; |Testiranje|KPVGA:inst15|VGAPer:inst|Controller:inst4|RegisterX:inst|data[9]  ;
-; 3:1                ; 32 bits   ; 64 LEs        ; 32 LEs               ; 32 LEs                 ; Yes        ; |Testiranje|CPU:inst|CSRegFile:inst31|RegisterX:inst65|data[30]               ;
-; 4:1                ; 30 bits   ; 60 LEs        ; 60 LEs               ; 0 LEs                  ; Yes        ; |Testiranje|CPU:inst|PC:inst8|data[19]                                        ;
+; 3:1                ; 32 bits   ; 64 LEs        ; 32 LEs               ; 32 LEs                 ; Yes        ; |Testiranje|CPU:inst|CSRegFile:inst31|RegisterX:inst65|data[16]               ;
+; 4:1                ; 30 bits   ; 60 LEs        ; 60 LEs               ; 0 LEs                  ; Yes        ; |Testiranje|CPU:inst|PC:inst8|data[4]                                         ;
 ; 3:1                ; 3 bits    ; 6 LEs         ; 3 LEs                ; 3 LEs                  ; Yes        ; |Testiranje|KPTastature:inst11|RegisterX:inst3|data[5]                        ;
-; 3:1                ; 5 bits    ; 10 LEs        ; 10 LEs               ; 0 LEs                  ; No         ; |Testiranje|CPU:inst|MultiplexerX:inst14|Y[1]                                 ;
-; 3:1                ; 32 bits   ; 64 LEs        ; 64 LEs               ; 0 LEs                  ; No         ; |Testiranje|CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst27|Y[28]             ;
-; 3:1                ; 12 bits   ; 24 LEs        ; 24 LEs               ; 0 LEs                  ; No         ; |Testiranje|CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst11|Y[30]             ;
-; 3:1                ; 26 bits   ; 52 LEs        ; 52 LEs               ; 0 LEs                  ; No         ; |Testiranje|CPU:inst|MultiplexerX:inst33|Y[21]                                ;
-; 3:1                ; 6 bits    ; 12 LEs        ; 12 LEs               ; 0 LEs                  ; No         ; |Testiranje|CPU:inst|MultiplexerX:inst33|Y[0]                                 ;
-; 4:1                ; 20 bits   ; 40 LEs        ; 40 LEs               ; 0 LEs                  ; No         ; |Testiranje|CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst11|Y[2]              ;
-; 6:1                ; 31 bits   ; 124 LEs       ; 124 LEs              ; 0 LEs                  ; No         ; |Testiranje|CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst60|Y[26]             ;
-; 14:1               ; 7 bits    ; 63 LEs        ; 49 LEs               ; 14 LEs                 ; No         ; |Testiranje|CPU:inst|ExecuteFaza:inst46|ALUX:inst|Mux20                       ;
-; 15:1               ; 7 bits    ; 70 LEs        ; 49 LEs               ; 21 LEs                 ; No         ; |Testiranje|CPU:inst|ExecuteFaza:inst46|ALUX:inst|Mux8                        ;
-; 15:1               ; 4 bits    ; 40 LEs        ; 32 LEs               ; 8 LEs                  ; No         ; |Testiranje|CPU:inst|ExecuteFaza:inst46|ALUX:inst|Mux25                       ;
-; 16:1               ; 4 bits    ; 40 LEs        ; 32 LEs               ; 8 LEs                  ; No         ; |Testiranje|CPU:inst|ExecuteFaza:inst46|ALUX:inst|Mux6                        ;
+; 3:1                ; 32 bits   ; 64 LEs        ; 64 LEs               ; 0 LEs                  ; No         ; |Testiranje|CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst27|Y[2]              ;
+; 3:1                ; 12 bits   ; 24 LEs        ; 24 LEs               ; 0 LEs                  ; No         ; |Testiranje|CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst11|Y[31]             ;
+; 3:1                ; 5 bits    ; 10 LEs        ; 10 LEs               ; 0 LEs                  ; No         ; |Testiranje|CPU:inst|MultiplexerX:inst14|Y[4]                                 ;
+; 3:1                ; 26 bits   ; 52 LEs        ; 52 LEs               ; 0 LEs                  ; No         ; |Testiranje|CPU:inst|MultiplexerX:inst33|Y[27]                                ;
+; 3:1                ; 6 bits    ; 12 LEs        ; 12 LEs               ; 0 LEs                  ; No         ; |Testiranje|CPU:inst|MultiplexerX:inst33|Y[31]                                ;
+; 4:1                ; 20 bits   ; 40 LEs        ; 40 LEs               ; 0 LEs                  ; No         ; |Testiranje|CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst11|Y[11]             ;
+; 6:1                ; 31 bits   ; 124 LEs       ; 124 LEs              ; 0 LEs                  ; No         ; |Testiranje|CPU:inst|ExecuteFaza:inst46|MultiplexerX:inst60|Y[17]             ;
+; 15:1               ; 7 bits    ; 70 LEs        ; 49 LEs               ; 21 LEs                 ; No         ; |Testiranje|CPU:inst|ExecuteFaza:inst46|ALUX:inst|Mux14                       ;
+; 14:1               ; 7 bits    ; 63 LEs        ; 49 LEs               ; 14 LEs                 ; No         ; |Testiranje|CPU:inst|ExecuteFaza:inst46|ALUX:inst|Mux19                       ;
+; 15:1               ; 4 bits    ; 40 LEs        ; 32 LEs               ; 8 LEs                  ; No         ; |Testiranje|CPU:inst|ExecuteFaza:inst46|ALUX:inst|Mux26                       ;
+; 16:1               ; 4 bits    ; 40 LEs        ; 32 LEs               ; 8 LEs                  ; No         ; |Testiranje|CPU:inst|ExecuteFaza:inst46|ALUX:inst|Mux4                        ;
+; 16:1               ; 2 bits    ; 20 LEs        ; 16 LEs               ; 4 LEs                  ; No         ; |Testiranje|CPU:inst|ExecuteFaza:inst46|ALUX:inst|Mux29                       ;
 ; 17:1               ; 2 bits    ; 22 LEs        ; 18 LEs               ; 4 LEs                  ; No         ; |Testiranje|CPU:inst|ExecuteFaza:inst46|ALUX:inst|Mux3                        ;
-; 16:1               ; 2 bits    ; 20 LEs        ; 16 LEs               ; 4 LEs                  ; No         ; |Testiranje|CPU:inst|ExecuteFaza:inst46|ALUX:inst|Mux28                       ;
-; 33:1               ; 32 bits   ; 704 LEs       ; 704 LEs              ; 0 LEs                  ; No         ; |Testiranje|CPU:inst|RegFile32:inst4|MultiplexerX:inst12|Y[9]                 ;
+; 33:1               ; 32 bits   ; 704 LEs       ; 704 LEs              ; 0 LEs                  ; No         ; |Testiranje|CPU:inst|RegFile32:inst4|MultiplexerX:inst12|Y[12]                ;
 +--------------------+-----------+---------------+----------------------+------------------------+------------+-------------------------------------------------------------------------------+
 
 
@@ -848,12 +844,23 @@ Note: All cells listed above may not be present at the end of synthesis due to v
 
 
 +-----------------------------------------------------------------------------------------------------+
-; Source assignments for memTest:inst9|altsyncram:altsyncram_component|altsyncram_dos3:auto_generated ;
+; Source assignments for memTest:inst9|altsyncram:altsyncram_component|altsyncram_s0t3:auto_generated ;
 +---------------------------------+--------------------+------+---------------------------------------+
 ; Assignment                      ; Value              ; From ; To                                    ;
 +---------------------------------+--------------------+------+---------------------------------------+
 ; OPTIMIZE_POWER_DURING_SYNTHESIS ; NORMAL_COMPILATION ; -    ; -                                     ;
 +---------------------------------+--------------------+------+---------------------------------------+
+
+
++----------------------------------------------------------------------------+
+; Parameter Settings for User Entity Instance: KPHex:inst12|RegisterX:inst30 ;
++----------------+-------+---------------------------------------------------+
+; Parameter Name ; Value ; Type                                              ;
++----------------+-------+---------------------------------------------------+
+; size           ; 32    ; Signed Integer                                    ;
+; default_value  ; 0     ; Signed Integer                                    ;
++----------------+-------+---------------------------------------------------+
+Note: In order to hide this table in the UI and the text report file, please set the "Show Parameter Settings in Synthesis Report" option in "Analysis and Synthesis Settings -> More Settings" to "Off".
 
 
 +----------------------------------------------------------------------------------------+
@@ -3407,7 +3414,7 @@ Note: In order to hide this table in the UI and the text report file, please set
 ; READ_DURING_WRITE_MODE_MIXED_PORTS ; DONT_CARE            ; Untyped                        ;
 ; READ_DURING_WRITE_MODE_PORT_A      ; NEW_DATA_NO_NBE_READ ; Untyped                        ;
 ; READ_DURING_WRITE_MODE_PORT_B      ; NEW_DATA_NO_NBE_READ ; Untyped                        ;
-; INIT_FILE                          ; ../tetris.mif        ; Untyped                        ;
+; INIT_FILE                          ; tetrisCode.mif       ; Untyped                        ;
 ; INIT_FILE_LAYOUT                   ; PORT_A               ; Untyped                        ;
 ; MAXIMUM_DEPTH                      ; 0                    ; Signed Integer                 ;
 ; CLOCK_ENABLE_INPUT_A               ; BYPASS               ; Untyped                        ;
@@ -3420,72 +3427,8 @@ Note: In order to hide this table in the UI and the text report file, please set
 ; ECC_PIPELINE_STAGE_ENABLED         ; FALSE                ; Untyped                        ;
 ; WIDTH_ECCSTATUS                    ; 3                    ; Signed Integer                 ;
 ; DEVICE_FAMILY                      ; Cyclone III          ; Untyped                        ;
-; CBXI_PARAMETER                     ; altsyncram_dos3      ; Untyped                        ;
+; CBXI_PARAMETER                     ; altsyncram_s0t3      ; Untyped                        ;
 +------------------------------------+----------------------+--------------------------------+
-Note: In order to hide this table in the UI and the text report file, please set the "Show Parameter Settings in Synthesis Report" option in "Analysis and Synthesis Settings -> More Settings" to "Off".
-
-
-+----------------------------------------------------------------------------+
-; Parameter Settings for User Entity Instance: KPHex:inst12|RegisterX:inst30 ;
-+----------------+-------+---------------------------------------------------+
-; Parameter Name ; Value ; Type                                              ;
-+----------------+-------+---------------------------------------------------+
-; size           ; 32    ; Signed Integer                                    ;
-; default_value  ; 0     ; Signed Integer                                    ;
-+----------------+-------+---------------------------------------------------+
-Note: In order to hide this table in the UI and the text report file, please set the "Show Parameter Settings in Synthesis Report" option in "Analysis and Synthesis Settings -> More Settings" to "Off".
-
-
-+-----------------------------------------------------------------+
-; Parameter Settings for User Entity Instance: ComparatorX:inst34 ;
-+----------------+-------+----------------------------------------+
-; Parameter Name ; Value ; Type                                   ;
-+----------------+-------+----------------------------------------+
-; size           ; 32    ; Unsigned Integer                       ;
-+----------------+-------+----------------------------------------+
-Note: In order to hide this table in the UI and the text report file, please set the "Show Parameter Settings in Synthesis Report" option in "Analysis and Synthesis Settings -> More Settings" to "Off".
-
-
-+---------------------------------------------------------------+
-; Parameter Settings for User Entity Instance: ConstantX:inst36 ;
-+----------------+-------+--------------------------------------+
-; Parameter Name ; Value ; Type                                 ;
-+----------------+-------+--------------------------------------+
-; size           ; 32    ; Signed Integer                       ;
-; const          ; 255   ; Signed Integer                       ;
-+----------------+-------+--------------------------------------+
-Note: In order to hide this table in the UI and the text report file, please set the "Show Parameter Settings in Synthesis Report" option in "Analysis and Synthesis Settings -> More Settings" to "Off".
-
-
-+---------------------------------------------------------------+
-; Parameter Settings for User Entity Instance: ConstantX:inst59 ;
-+----------------+-------+--------------------------------------+
-; Parameter Name ; Value ; Type                                 ;
-+----------------+-------+--------------------------------------+
-; size           ; 32    ; Signed Integer                       ;
-; const          ; 3     ; Signed Integer                       ;
-+----------------+-------+--------------------------------------+
-Note: In order to hide this table in the UI and the text report file, please set the "Show Parameter Settings in Synthesis Report" option in "Analysis and Synthesis Settings -> More Settings" to "Off".
-
-
-+-----------------------------------------------------------------+
-; Parameter Settings for User Entity Instance: MultiplexerX:inst7 ;
-+----------------+-------+----------------------------------------+
-; Parameter Name ; Value ; Type                                   ;
-+----------------+-------+----------------------------------------+
-; size           ; 32    ; Signed Integer                         ;
-+----------------+-------+----------------------------------------+
-Note: In order to hide this table in the UI and the text report file, please set the "Show Parameter Settings in Synthesis Report" option in "Analysis and Synthesis Settings -> More Settings" to "Off".
-
-
-+-------------------------------------------------------------------+
-; Parameter Settings for User Entity Instance: cpu_debug_fifo:inst8 ;
-+----------------+-------+------------------------------------------+
-; Parameter Name ; Value ; Type                                     ;
-+----------------+-------+------------------------------------------+
-; data_width     ; 32    ; Signed Integer                           ;
-; fifo_depth     ; 256   ; Signed Integer                           ;
-+----------------+-------+------------------------------------------+
 Note: In order to hide this table in the UI and the text report file, please set the "Show Parameter Settings in Synthesis Report" option in "Analysis and Synthesis Settings -> More Settings" to "Off".
 
 
@@ -3525,7 +3468,7 @@ Note: In order to hide this table in the UI and the text report file, please set
 +----------------+--------------+
 ; Partition Name ; Elapsed Time ;
 +----------------+--------------+
-; Top            ; 00:00:12     ;
+; Top            ; 00:00:14     ;
 +----------------+--------------+
 
 
@@ -3535,7 +3478,7 @@ Note: In order to hide this table in the UI and the text report file, please set
 Info: *******************************************************************
 Info: Running Quartus II 64-Bit Analysis & Synthesis
     Info: Version 13.1.0 Build 162 10/23/2013 SJ Web Edition
-    Info: Processing started: Fri Sep 18 17:24:44 2026
+    Info: Processing started: Tue Sep 22 14:42:25 2026
 Info: Command: quartus_map --read_settings_files=on --write_settings_files=off Main -c Main
 Warning (20028): Parallel compilation is not licensed and has been disabled
 Info (12021): Found 1 design units, including 1 entities, in source file kpvga.bdf
@@ -3570,20 +3513,26 @@ Info (12021): Found 2 design units, including 1 entities, in source file impulse
     Info (12023): Found entity 1: pulse_gen
 Info (12021): Found 1 design units, including 1 entities, in source file cpu.bdf
     Info (12023): Found entity 1: CPU
-Info (12021): Found 2 design units, including 1 entities, in source file cpu_debug_fifo.vhd
-    Info (12022): Found design unit 1: cpu_debug_fifo-Behavioral
-    Info (12023): Found entity 1: cpu_debug_fifo
+Warning (12019): Can't analyze file -- file cpu_debug_fifo.vhd is missing
 Info (12021): Found 1 design units, including 1 entities, in source file layer2.bdf
     Info (12023): Found entity 1: Layer2
 Info (12021): Found 1 design units, including 1 entities, in source file kphex.bdf
     Info (12023): Found entity 1: KPHex
 Info (12127): Elaborating entity "Testiranje" for the top level hierarchy
-Warning (275013): Port "clk" of type cpu_debug_fifo and instance "inst8" is missing source signal
 Warning (275009): Pin "SW5" not connected
 Warning (275009): Pin "SW6" not connected
+Warning (275009): Pin "SW7" not connected
+Warning (275009): Pin "SW8" not connected
 Warning (275009): Pin "SW9" not connected
 Warning (275008): Primitive "SRFF" of instance "inst25" not used
 Warning (275008): Primitive "NOT" of instance "inst27" not used
+Warning (275008): Primitive "AND2" of instance "inst29" not used
+Info (12128): Elaborating entity "seven_segment_display" for hierarchy "seven_segment_display:inst18"
+Info (12128): Elaborating entity "KPHex" for hierarchy "KPHex:inst12"
+Warning (12125): Using design file registerx.vhd, which is not specified as a design file for the current project, but contains definitions for 2 design units and 1 entities in project
+    Info (12022): Found design unit 1: RegisterX-rtl
+    Info (12023): Found entity 1: RegisterX
+Info (12128): Elaborating entity "RegisterX" for hierarchy "KPHex:inst12|RegisterX:inst30"
 Info (12128): Elaborating entity "CPU" for hierarchy "CPU:inst"
 Info (12128): Elaborating entity "DecodeFaza" for hierarchy "CPU:inst|DecodeFaza:inst"
 Warning (275083): Bus "RS2[31..0]" found using same base name as "rs", which might lead to a name conflict.
@@ -3628,10 +3577,6 @@ Warning (275008): Primitive "VCC" of instance "inst22" not used
 Info (12128): Elaborating entity "dc8" for hierarchy "CPU:inst|DecodeFaza:inst|dc8:inst24"
 Info (12128): Elaborating entity "dc4" for hierarchy "CPU:inst|DecodeFaza:inst|dc8:inst24|dc4:inst"
 Info (12128): Elaborating entity "dc2" for hierarchy "CPU:inst|DecodeFaza:inst|dc8:inst24|dc4:inst|dc2:inst"
-Warning (12125): Using design file registerx.vhd, which is not specified as a design file for the current project, but contains definitions for 2 design units and 1 entities in project
-    Info (12022): Found design unit 1: RegisterX-rtl
-    Info (12023): Found entity 1: RegisterX
-Info (12128): Elaborating entity "RegisterX" for hierarchy "CPU:inst|DecodeFaza:inst|RegisterX:inst62"
 Warning (12125): Using design file fetchfaza.bdf, which is not specified as a design file for the current project, but contains definitions for 1 design units and 1 entities in project
     Info (12023): Found entity 1: FetchFaza
 Info (12128): Elaborating entity "FetchFaza" for hierarchy "CPU:inst|FetchFaza:inst24"
@@ -3886,7 +3831,7 @@ Info (12133): Instantiated megafunction "memTest:inst9|altsyncram:altsyncram_com
     Info (12134): Parameter "indata_aclr_a" = "UNUSED"
     Info (12134): Parameter "indata_aclr_b" = "NONE"
     Info (12134): Parameter "indata_reg_b" = "CLOCK1"
-    Info (12134): Parameter "init_file" = "../tetris.mif"
+    Info (12134): Parameter "init_file" = "tetrisCode.mif"
     Info (12134): Parameter "init_file_layout" = "PORT_A"
     Info (12134): Parameter "maximum_depth" = "0"
     Info (12134): Parameter "numwords_a" = "8192"
@@ -3916,36 +3861,43 @@ Info (12133): Instantiated megafunction "memTest:inst9|altsyncram:altsyncram_com
     Info (12134): Parameter "wrcontrol_wraddress_reg_b" = "CLOCK1"
     Info (12134): Parameter "lpm_hint" = "ENABLE_RUNTIME_MOD=NO"
     Info (12134): Parameter "lpm_type" = "altsyncram"
-Info (12021): Found 1 design units, including 1 entities, in source file db/altsyncram_dos3.tdf
-    Info (12023): Found entity 1: altsyncram_dos3
-Info (12128): Elaborating entity "altsyncram_dos3" for hierarchy "memTest:inst9|altsyncram:altsyncram_component|altsyncram_dos3:auto_generated"
-Info (12128): Elaborating entity "seven_segment_display" for hierarchy "seven_segment_display:inst18"
-Info (12128): Elaborating entity "KPHex" for hierarchy "KPHex:inst12"
-Info (12128): Elaborating entity "ConstantX" for hierarchy "ConstantX:inst36"
-Info (12128): Elaborating entity "ConstantX" for hierarchy "ConstantX:inst59"
-Info (12128): Elaborating entity "cpu_debug_fifo" for hierarchy "cpu_debug_fifo:inst8"
+Info (12021): Found 1 design units, including 1 entities, in source file db/altsyncram_s0t3.tdf
+    Info (12023): Found entity 1: altsyncram_s0t3
+Info (12128): Elaborating entity "altsyncram_s0t3" for hierarchy "memTest:inst9|altsyncram:altsyncram_component|altsyncram_s0t3:auto_generated"
 Info (13000): Registers with preset signals will power-up high
 Info (13003): DEV_CLRn pin will set, and not reset, register with preset signal due to NOT Gate Push-Back
+Warning (13024): Output pins are stuck at VCC or GND
+    Warning (13410): Pin "LED0" is stuck at GND
+    Warning (13410): Pin "LED1" is stuck at GND
+    Warning (13410): Pin "LED2" is stuck at GND
+    Warning (13410): Pin "LED3" is stuck at GND
+    Warning (13410): Pin "LED4" is stuck at GND
+    Warning (13410): Pin "LED5" is stuck at GND
+    Warning (13410): Pin "LED6" is stuck at GND
+    Warning (13410): Pin "LED7" is stuck at GND
+    Warning (13410): Pin "LED8" is stuck at GND
+    Warning (13410): Pin "LED9" is stuck at GND
 Info (286030): Timing-Driven Synthesis is running
 Info (17049): 153 registers lost all their fanouts during netlist optimizations.
 Info (16010): Generating hard_block partition "hard_block:auto_generated_inst"
     Info (16011): Adding 0 node(s), including 0 DDIO, 0 PLL, 0 transceiver and 0 LCELL
-Warning (21074): Design contains 6 input pin(s) that do not drive logic
+Warning (21074): Design contains 7 input pin(s) that do not drive logic
     Warning (15610): No output dependent on input pin "BTN2"
     Warning (15610): No output dependent on input pin "BTN1"
-    Warning (15610): No output dependent on input pin "SW7"
     Warning (15610): No output dependent on input pin "SW5"
     Warning (15610): No output dependent on input pin "SW6"
+    Warning (15610): No output dependent on input pin "SW7"
+    Warning (15610): No output dependent on input pin "SW8"
     Warning (15610): No output dependent on input pin "SW9"
-Info (21057): Implemented 4516 device resources after synthesis - the final resource count might be different
+Info (21057): Implemented 4489 device resources after synthesis - the final resource count might be different
     Info (21058): Implemented 15 input pins
     Info (21059): Implemented 52 output pins
-    Info (21061): Implemented 4405 logic cells
+    Info (21061): Implemented 4378 logic cells
     Info (21064): Implemented 44 RAM segments
-Info: Quartus II 64-Bit Analysis & Synthesis was successful. 0 errors, 100 warnings
-    Info: Peak virtual memory: 4722 megabytes
-    Info: Processing ended: Fri Sep 18 17:25:02 2026
-    Info: Elapsed time: 00:00:18
-    Info: Total CPU time (on all processors): 00:00:18
+Info: Quartus II 64-Bit Analysis & Synthesis was successful. 0 errors, 115 warnings
+    Info: Peak virtual memory: 4725 megabytes
+    Info: Processing ended: Tue Sep 22 14:42:46 2026
+    Info: Elapsed time: 00:00:21
+    Info: Total CPU time (on all processors): 00:00:20
 
 

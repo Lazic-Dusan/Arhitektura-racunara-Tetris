@@ -3,27 +3,27 @@ TimeQuest Timing Analyzer Summary
 ------------------------------------------------------------
 
 Type  : Slow 1200mV 85C Model Setup 'CLK'
-Slack : -19.875
-TNS   : -22275.500
+Slack : -17.557
+TNS   : -21267.814
 
 Type  : Slow 1200mV 85C Model Setup 'KPTastature:inst11|KeyFetch:inst|Debouncer:inst39|inst1'
-Slack : -0.609
-TNS   : -0.974
+Slack : -0.600
+TNS   : -1.374
 
 Type  : Slow 1200mV 85C Model Hold 'CLK'
-Slack : 0.315
+Slack : 0.293
 TNS   : 0.000
 
 Type  : Slow 1200mV 85C Model Hold 'KPTastature:inst11|KeyFetch:inst|Debouncer:inst39|inst1'
-Slack : 0.380
+Slack : 0.382
 TNS   : 0.000
 
 Type  : Slow 1200mV 85C Model Recovery 'CLK'
-Slack : -0.279
-TNS   : -0.279
+Slack : -0.311
+TNS   : -0.311
 
 Type  : Slow 1200mV 85C Model Removal 'CLK'
-Slack : 0.844
+Slack : 0.858
 TNS   : 0.000
 
 Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK'
@@ -35,27 +35,27 @@ Slack : -1.000
 TNS   : -19.000
 
 Type  : Slow 1200mV 0C Model Setup 'CLK'
-Slack : -17.816
-TNS   : -19897.100
+Slack : -15.790
+TNS   : -18942.393
 
 Type  : Slow 1200mV 0C Model Setup 'KPTastature:inst11|KeyFetch:inst|Debouncer:inst39|inst1'
 Slack : -0.429
-TNS   : -0.647
+TNS   : -0.576
 
 Type  : Slow 1200mV 0C Model Hold 'CLK'
-Slack : 0.298
+Slack : 0.289
 TNS   : 0.000
 
 Type  : Slow 1200mV 0C Model Hold 'KPTastature:inst11|KeyFetch:inst|Debouncer:inst39|inst1'
-Slack : 0.345
+Slack : 0.343
 TNS   : 0.000
 
 Type  : Slow 1200mV 0C Model Recovery 'CLK'
-Slack : -0.150
-TNS   : -0.150
+Slack : -0.175
+TNS   : -0.175
 
 Type  : Slow 1200mV 0C Model Removal 'CLK'
-Slack : 0.752
+Slack : 0.768
 TNS   : 0.000
 
 Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK'
@@ -67,32 +67,32 @@ Slack : -1.000
 TNS   : -19.000
 
 Type  : Fast 1200mV 0C Model Setup 'CLK'
-Slack : -10.774
-TNS   : -12164.653
+Slack : -9.497
+TNS   : -11553.043
 
 Type  : Fast 1200mV 0C Model Setup 'KPTastature:inst11|KeyFetch:inst|Debouncer:inst39|inst1'
 Slack : 0.102
 TNS   : 0.000
 
 Type  : Fast 1200mV 0C Model Hold 'CLK'
-Slack : 0.150
+Slack : 0.132
 TNS   : 0.000
 
 Type  : Fast 1200mV 0C Model Hold 'KPTastature:inst11|KeyFetch:inst|Debouncer:inst39|inst1'
-Slack : 0.196
+Slack : 0.197
 TNS   : 0.000
 
 Type  : Fast 1200mV 0C Model Recovery 'CLK'
-Slack : 0.279
+Slack : 0.260
 TNS   : 0.000
 
 Type  : Fast 1200mV 0C Model Removal 'CLK'
-Slack : 0.472
+Slack : 0.479
 TNS   : 0.000
 
 Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK'
 Slack : -3.000
-TNS   : -2042.321
+TNS   : -2045.443
 
 Type  : Fast 1200mV 0C Model Minimum Pulse Width 'KPTastature:inst11|KeyFetch:inst|Debouncer:inst39|inst1'
 Slack : -1.000
